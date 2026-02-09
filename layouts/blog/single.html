@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main class="blog-single">
+    <div class="container">
+        <article>
+            <h1>{{ .Title }}</h1>
+
+            {{ with .Params.image }}
+            <div class="blog-single-image-wrapper">
+                <img src="{{ . }}" alt="{{ $.Title }}" class="blog-single-image">
+            </div>
+            {{ end }}
+
+            <p class="blog-date">{{ .Date.Format "02/01/2006" }}</p>
+
+            <div class="blog-content">
+                {{ .Content }}
+            </div>
+        </article>
+
+        <div class="back-to-blog">
+            <a href="/{{ .Lang }}/blog/">← {{ i18n "back_to_blog" }}</a>
+        </div>
+    </div>
+</main>
+{{ end }}

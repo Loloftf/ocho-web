@@ -1,0 +1,126 @@
+{{ define "main" }}
+<main>
+    <!-- Hero -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-logo-wrapper">
+                <svg class="hero-infinito" viewBox="0 0 100 50">
+                    <path
+                        d="M25,12.5 C15,12.5 5,20 5,30 C5,40 15,47.5 25,47.5 C35,47.5 45,35 50,30 C55,25 65,12.5 75,12.5 C85,12.5 95,20 95,30 C95,40 85,47.5 75,47.5 C65,47.5 55,35 50,30 C45,25 35,12.5 25,12.5 Z" />
+                </svg>
+            </div>
+            <h1>{{ i18n "hero_title" | safeHTML }}</h1>
+            <p>{{ i18n "hero_text" }}</p>
+            <a href="#contacto" class="btn-primary">{{ i18n "hero_cta" }}</a>
+        </div>
+    </section>
+
+    <!-- Servicios -->
+    <section id="servicios" class="services">
+        <div class="container">
+            <h2 class="section-title center">{{ i18n "services_title" }}</h2>
+            <p class="section-subtitle center">{{ i18n "services_subtitle" }}</p>
+            <div class="services-grid">
+                <div class="service-card">
+                    <svg class="service-logo" viewBox="0 0 100 50">
+                        <path
+                            d="M25,12.5 C15,12.5 5,20 5,30 C5,40 15,47.5 25,47.5 C35,47.5 45,35 50,30 C55,25 65,12.5 75,12.5 C85,12.5 95,20 95,30 C95,40 85,47.5 75,47.5 C65,47.5 55,35 50,30 C45,25 35,12.5 25,12.5 Z" />
+                    </svg>
+                    <h3>{{ i18n "service_heritage_title" }}</h3>
+                    <p>{{ i18n "service_heritage_text" | safeHTML }}</p>
+                </div>
+                <div class="service-card">
+                    <svg class="service-logo" viewBox="0 0 100 50">
+                        <path
+                            d="M25,12.5 C15,12.5 5,20 5,30 C5,40 15,47.5 25,47.5 C35,47.5 45,35 50,30 C55,25 65,12.5 75,12.5 C85,12.5 95,20 95,30 C95,40 85,47.5 75,47.5 C65,47.5 55,35 50,30 C45,25 35,12.5 25,12.5 Z" />
+                    </svg>
+                    <h3>{{ i18n "service_family_title" }}</h3>
+                    <p>{{ i18n "service_family_text" | safeHTML }}</p>
+                </div>
+                <div class="service-card">
+                    <svg class="service-logo" viewBox="0 0 100 50">
+                        <path
+                            d="M25,12.5 C15,12.5 5,20 5,30 C5,40 15,47.5 25,47.5 C35,47.5 45,35 50,30 C55,25 65,12.5 75,12.5 C85,12.5 95,20 95,30 C95,40 85,47.5 75,47.5 C65,47.5 55,35 50,30 C45,25 35,12.5 25,12.5 Z" />
+                    </svg>
+                    <h3>{{ i18n "service_mediation_title" }}</h3>
+                    <p>{{ i18n "service_mediation_text" | safeHTML }}</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Blog -->
+    <section id="blog" class="blog-section">
+        <div class="container">
+            <h2 class="section-title center">{{ i18n "blog_title" }}</h2>
+            <p class="section-subtitle center">{{ i18n "blog_subtitle" }}</p>
+            <div class="blog-grid">
+                {{ $blogSection := .Site.GetPage "section" "blog" }}
+                {{ $langPages := where $blogSection.Pages "Lang" .Lang }}
+                {{ range first 3 $langPages }}
+                <a href="{{ .RelPermalink }}" class="blog-card">
+                    {{ with .Params.image }}
+                    <img src="{{ . }}" class="blog-thumb" alt="{{ $.Title }}"> <!-- <-- usa $.Title -->
+                    {{ end }}
+                    <div class="blog-content">
+                        {{ with .Params.tag }}
+                        <span class="blog-tag">{{ . }}</span>
+                        {{ end }}
+                        <h3 class="blog-title">{{ .Title }}</h3>
+                        <p class="blog-excerpt">{{ .Summary }}</p>
+                        <span class="blog-link">Leer más →</span>
+                    </div>
+                </a>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Sobre Fer -->
+    <section id="fer" class="about-fer">
+        <div class="container">
+            <div class="about-grid">
+                <div class="about-image">
+                    <img src="/images/Fer.jpg" alt="Fer, abogada experta en derecho preventivo">
+                </div>
+                <div class="about-content">
+                    <h2 class="section-title">{{ i18n "about_title" }}</h2>
+                    <p>{{ i18n "about_p1" }}</p>
+                    <p>{{ i18n "about_p2" }}</p>
+                    <p>{{ i18n "about_p3" }}</p>
+                    <p>{{ i18n "about_p4" }}</p>
+                    <p>{{ i18n "about_p5" }}</p>
+                    <span class="signature">{{ i18n "about_signature" }}</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contacto -->
+    <section id="contacto" class="contact">
+        <div class="container">
+            <div class="contact-grid">
+                <div class="contact-info">
+                    <h2>{{ i18n "contact_title" }}</h2>
+                    <p>{{ i18n "contact_text" }}</p>
+                    <div class="contact-details">
+                        <p>📧 fer@ochoasesoria.es</p>
+                        <p>📍 Madrid / Consultoría Online</p>
+                    </div>
+                </div>
+                <form class="contact-form">
+                    <input type="text" placeholder="{{ i18n " form_name" }}" required>
+                    <div class="form-row">
+                        <input type="email" placeholder="{{ i18n " form_email" }}" required>
+                        <input type="tel" placeholder="{{ i18n " form_phone" }}" required>
+                    </div>
+                    <textarea rows="4" placeholder="{{ i18n " form_message" }}" required></textarea>
+                    <button type="submit" class="btn-submit">{{ i18n "form_cta" }}</button>
+                </form>
+            </div>
+        </div>
+    </section>
+</main>
+{{ end }}

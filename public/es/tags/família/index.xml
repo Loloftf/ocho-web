@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Família on OCHO</title>
+    <link>http://localhost:1313/es/tags/fam%C3%ADlia/</link>
+    <description>Recent content in Família on OCHO</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/tags/fam%C3%ADlia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El mito de la Pareja de Hecho</title>
+      <link>http://localhost:1313/es/blog/mito-pareja-de-hecho/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/mito-pareja-de-hecho/</guid>
+      <description>&lt;p&gt;Este artículo ataca una confusión muy común. Mucha gente cree que vivir juntos 20 años equivale a estar casados a efectos de herencia, y en gran parte del territorio (especialmente en Derecho Común en España) esto no es así.&lt;/p&gt;&#xA;&lt;p&gt;El Gancho: &amp;ldquo;Lleváis toda la vida juntos, habéis compartido casa y gastos, pero no firmasteis papeles. Si mañana faltas, ¿sabías que tu pareja podría no tener derecho ni a quedarse en la casa?&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

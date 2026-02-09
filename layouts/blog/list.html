@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="blog-section">
+    <div class="container">
+        <h1 class="section-title center">{{ i18n "blog_title" }}</h1>
+        <p class="section-subtitle center">{{ i18n "blog_subtitle" }}</p>
+
+        <div class="blog-grid">
+            {{ $blogPages := where .Site.RegularPages "Section" "blog" }}
+            {{ $langPages := where $blogPages "Lang" .Lang }}
+            {{ range $langPages }}
+            <a href="{{ .RelPermalink }}" class="blog-card">
+                {{ with .Params.image }}
+                <img src="{{ . }}" class="blog-thumb" alt="{{ $.Title }}">
+                {{ end }}
+                <div class="blog-content">
+                    {{ with .Params.tags }}
+                    <span class="blog-tag">{{ index . 0 }}</span>
+                    {{ end }}
+                    <h3 class="blog-title">{{ .Title }}</h3>
+                    <p class="blog-excerpt">{{ .Summary }}</p>
+                    <span class="blog-link">{{ i18n "blog_read_more" }}</span>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

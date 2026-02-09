@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="taxonomy-section">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    <div class="blog-grid">
+      {{ range .Pages }}
+      <a href="{{ .RelPermalink }}" class="blog-card">
+        {{ with .Params.image }}
+        <img src="{{ . }}" class="blog-thumb" alt="{{ $.Title }}">
+        {{ end }}
+        <div class="blog-content">
+          <h3>{{ .Title }}</h3>
+          <p>{{ .Summary }}</p>
+          <span class="blog-link">Leer más →</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

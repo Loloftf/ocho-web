@@ -1,0 +1,37 @@
+baseURL = "http://localhost:1313/"
+title = "OCHO"
+defaultContentLanguage = "es"
+defaultContentLanguageInSubdir = true
+languageCode = "es-es"
+
+[languages]
+
+[languages.es]
+languageName = "Español"
+contentDir = "content/es"
+weight = 1
+
+[languages.pt]
+languageName = "Português"
+contentDir = "content/pt"
+weight = 2
+
+[[cascade]]
+  type = "legal"
+  [cascade._target]
+    path = "**/aviso-legal.md"
+
+[[cascade]]
+  type = "legal"
+  [cascade._target]
+    path = "**/politica-privacidad.md"
+
+[[cascade]]
+  type = "legal"
+  [cascade._target]
+    path = "**/cookies.md"
+
+[[cascade]]
+  type = "legal"
+  [cascade._target]
+    path = "**/condiciones.md"

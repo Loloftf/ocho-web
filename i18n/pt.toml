@@ -1,0 +1,50 @@
+# --- CABECERA ---
+header_services = "Serviços"
+header_blog = "Te Interesa"
+header_about = "Quem sou"
+header_cta = "Fale comigo"
+
+# --- HERO ---
+hero_title = "<span class='hero-line-1'>Resolver conflitos é bom.</span><br>Preveni-los é melhor."
+hero_text = "A OCHO acompanha você no planejamento jurídico do que realmente importa: a sua vida e a dos seus."
+hero_cta = "Conte-me"
+
+# --- SERVIÇOS ---
+services_title = "O que posso fazer por você"
+services_subtitle = "Meu objetivo no é apenas ganar suas batalhas, mas evitar que você tenha que enfrentá-las. Aja agora para que o futuro não o surpreenda."
+service_heritage_title = "Planejamento pessoal e patrimonial"
+service_heritage_text = "Ordenar hoje para evitar conflitos amanhã.<br><br>• Pactos antenupciais<br>• Pactos pré-nupciais<br>• Pactos de convivência<br>• Pactos em previsão de ruptura<br>• Protocolo familiar<br>• Exequatur (legalização de divórcio)"
+service_family_title = "Organização familiar após a ruptura"
+service_family_text = "Quando a relação termina, a ordem é fundamental.<br><br>• Divórcios<br>• Separações<br>• Modificação de medidas<br>• Medidas relativas a filhos de casais não casados<br>• Liquidação do regime de bens<br>• Acordo regulador privado"
+service_mediation_title = "Proteção a menores e pessoas com deficiência"
+service_mediation_text = "Amparar em situações de vulnerabilidade.<br><br>• Nomeação de tutor<br>• Nomeação de curador e curador de fato<br>• Poderes preventivos<br>• Medidas de apoio a pessoas com deficiência<br>• Testamento vital (vontades antecipadas)<br>• Autorizações e aprovações judiciais relativas a menores e pessoas com deficiência"
+
+# --- BLOG ---
+blog_title = "Chaves para sua tranquilidade"
+blog_subtitle = "Informações claras e sem jargões para tomar decisiones hoje que te protejam sempre."
+blog_read_more = "Leia más →"
+back_to_blog = "Voltar ao blog"
+
+# --- SOBRE FER ---
+about_title = "Olá, sou o Fer."
+about_p1 = "Após anos de experiência trabalhando diariamente no tribunal, não só encontrei minha especialidade, como também compreendi que muitos conflitos familiares não nascem do problema em si, mas da falta de informação, planejamento e serenidade."
+about_p2 = "Não acredito em um exercício profissional conflituoso, apressado e desumanizado. Por isso, minhas relações — tanto pessoais quanto profissionais — baseiam-se em uma escuta honesta, na qual o respeito e a autorresponsabilidade são fundamentais."
+about_p3 = "OCHO é o resultado dos meus acertos e dos meus erros."
+about_p4 = "Meu foco está nas pessoas, no que nos une e em viver com tranquilidade."
+about_p5 = "Mantra: Que o importante seja realmente o importante."
+about_signature = "Fer."
+
+# --- CONTATO ---
+contact_title = "Blindemos seu futuro."
+contact_text = "Conte-me sua situação. Analisarei os riscos potenciais e proporei uma estrategia preventiva con total clareza."
+form_name = "Seu nome"
+form_email = "Email"
+form_phone = "Teléfono"
+form_message = "Que aspecto do seu futuro deseja proteger hoje?"
+form_cta = "Solicitar análisis preventivo"
+
+# --- FOOTER ---
+footer_text = "Advocacia Preventiva. Rigor e proximidade por Fer."
+
+# --- WHATSAPP FLOAT ---
+whatsapp_text = "Falar com Fer agora"

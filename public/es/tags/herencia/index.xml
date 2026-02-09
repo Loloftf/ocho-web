@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herencia on OCHO</title>
+    <link>http://localhost:1313/es/tags/herencia/</link>
+    <description>Recent content in Herencia on OCHO</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 10 Jan 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/es/tags/herencia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Herencia sin conflictos</title>
+      <link>http://localhost:1313/es/blog/herencia-sin-conflictos/</link>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/blog/herencia-sin-conflictos/</guid>
+      <description>&lt;p&gt;Las herencias suelen ser la &amp;ldquo;tormenta perfecta&amp;rdquo;: mezclan dinero, duelos no resueltos y dinámicas familiares antiguas. A menudo, lo que se discute no es el valor de un objeto, sino &lt;strong&gt;quién fue más querido&lt;/strong&gt; o quién cuidó más a los padres.&lt;/p&gt;&#xA;&lt;p&gt;Aquí tienes las 3 claves fundamentales para evitar que el patrimonio se convierta en un campo de batalla:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-comunicación-en-vida-romper-el-tabú&#34;&gt;1. Comunicación en vida (Romper el tabú)&lt;/h3&gt;&#xA;&lt;p&gt;El error más común es tratar el testamento como un secreto de estado que solo se revela tras el fallecimiento. La sorpresa suele generar desconfianza.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

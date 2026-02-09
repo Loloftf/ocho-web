@@ -125,7 +125,7 @@ h3 {
 
 /* --- HERO --- */
 .hero {
-  padding: 100px 0 30px;
+  padding: 100px 0 50px !important;
   text-align: center;
 }
 
@@ -157,7 +157,7 @@ h3 {
 
 .hero p {
   font-size: 1.3rem;
-  max-width: 700px;
+  max-width: 850px;
   margin: 0 auto 40px;
   color: #554a48;
   font-weight: 300;
@@ -201,7 +201,7 @@ h3 {
 
 /* --- SERVICIOS --- */
 .services {
-  padding: 30px 0 100px;
+  padding: 100px 0 50px !important;
   text-align: left;
 }
 
@@ -491,8 +491,12 @@ h3 {
     padding: 60px 16px;
   }
 
+  .hero {
+    padding-bottom: 50px !important;
+  }
+
   .services {
-    padding: 30px 16px 60px;
+    padding: 100px 16px 50px !important;
   }
 
   .menu-toggle {
@@ -533,7 +537,11 @@ h3 {
   .blog-section,
   .about-fer,
   .contact {
-    padding: 60px 16px;
+    padding: 50px 16px !important;
+  }
+
+  .hero {
+    padding-bottom: 50px !important;
   }
 
   .main-footer {
@@ -573,7 +581,7 @@ section {
 
 .blog-single-image-wrapper {
   width: 100%;
-  max-width: 800px;
+  max-width: 530px;
   margin: 0 auto 20px;
 }
 
@@ -594,14 +602,40 @@ section {
 .blog-single article {
   max-width: 800px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  gap: 20px;
+}
+
+.blog-single article p {
+  margin-bottom: 1.5rem;
+}
+
+.blog-single article h1,
+.blog-single article h2,
+.blog-single article h3,
+.blog-single article h4,
+.blog-single article h5,
+.blog-single article h6 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  color: var(--color-primary, #554a48);
+}
+
+.blog-single article ul,
+.blog-single article ol {
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.blog-single article li {
+  margin-bottom: 0.8rem;
+}
+
+.blog-single article img {
+  margin-bottom: 2rem;
 }
 
 .blog-single article img.blog-single-image {
   width: 100% !important;
-  max-width: 800px !important;
+  max-width: 530px !important;
   height: auto !important;
   display: block;
   margin: 0 auto 20px;

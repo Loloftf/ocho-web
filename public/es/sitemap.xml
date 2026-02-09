@@ -28,9 +28,6 @@
                 href="http://localhost:1313/es/blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/conflicto/</loc>
-    <lastmod>2026-01-18T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/es/blog/mito-pareja-de-hecho/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
@@ -43,6 +40,9 @@
                 hreflang="es"
                 href="http://localhost:1313/es/blog/mito-pareja-de-hecho/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/es/tags/conflicto/</loc>
+    <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/es/blog/divorcio/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>

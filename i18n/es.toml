@@ -6,7 +6,7 @@ header_cta = "Hablemos"
 
 # --- HERO ---
 hero_title = "<span class='hero-line-1'>Resolver conflictos está bien.</span><br>Prevenirlos es mejor."
-hero_text = "OCHO te acompaña en la planificación jurídica de lo que de verdad importa: tu vida y la de los tuyos."
+hero_text = "OCHO te acompaña en la planificación jurídica de lo que de verdad importa:<br>tu vida y la de los tuyos."
 hero_cta = "Cuéntame"
 
 # --- SERVICIOS ---

@@ -58,14 +58,15 @@ h3 {
   border-bottom: 1px solid rgba(60, 47, 44, 0.1);
 }
 
-.menu-toggle {
-  display: none;
-}
-
-.main-header .container {
+.main-header .container.header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: relative;
+}
+
+.menu-toggle {
+  display: none;
 }
 
 .brand-identity {
@@ -525,8 +526,10 @@ h3 {
     display: block;
     width: 24px;
     height: 2px;
-    background-color: currentColor;
+    background-color: var(--color-secondary);
     position: absolute;
+    left: 8px;
+    /* Centered: (40-24)/2 */
     transition: var(--transition);
   }
 

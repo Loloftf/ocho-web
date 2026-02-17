@@ -58,6 +58,10 @@ h3 {
   border-bottom: 1px solid rgba(60, 47, 44, 0.1);
 }
 
+.menu-toggle {
+  display: none;
+}
+
 .main-header .container {
   display: flex;
   justify-content: space-between;
@@ -500,16 +504,56 @@ h3 {
   }
 
   .menu-toggle {
-    display: block;
-    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
     background: none;
     border: none;
     cursor: pointer;
     color: var(--color-secondary);
     position: absolute;
-    top: 18px;
+    top: 15px;
     right: 20px;
     z-index: 1001;
+  }
+
+  .menu-toggle span,
+  .menu-toggle span::before,
+  .menu-toggle span::after {
+    display: block;
+    width: 24px;
+    height: 2px;
+    background-color: currentColor;
+    position: absolute;
+    transition: var(--transition);
+  }
+
+  .menu-toggle span::before {
+    content: "";
+    top: -8px;
+    left: 0;
+  }
+
+  .menu-toggle span::after {
+    content: "";
+    bottom: -8px;
+    left: 0;
+  }
+
+  .menu-toggle.active span {
+    background-color: transparent;
+  }
+
+  .menu-toggle.active span::before {
+    transform: rotate(45deg);
+    top: 0;
+  }
+
+  .menu-toggle.active span::after {
+    transform: rotate(-45deg);
+    bottom: 0;
   }
 
   .main-nav ul {

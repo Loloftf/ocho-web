@@ -38,7 +38,9 @@
                     </li>
                 </ul>
             </nav>
-            <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú"></button>
+            <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú">
+                <span></span>
+            </button>
         </div>
     </header>
     
@@ -149,45 +151,69 @@ Curioso, ¿no?</p>
         document.addEventListener("DOMContentLoaded", function () {
             const menuToggle = document.getElementById("menu-toggle");
             const navMenu = document.querySelector(".main-nav ul");
+
+            
             document.querySelectorAll(".main-nav a").forEach(link => {
                 link.addEventListener("click", () => {
                     if (window.innerWidth <= 900 && navMenu.classList.contains("active")) {
                         navMenu.classList.remove("active");
+                        menuToggle.classList.remove("active");
                     }
                 });
             });
+
+            
             if (menuToggle && navMenu) {
                 menuToggle.addEventListener("click", () => {
                     navMenu.classList.toggle("active");
+                    menuToggle.classList.toggle("active");
                 });
             }
+
             const isHome = document.body.classList.contains("home") || document.querySelector("section[id]");
             if (!isHome) return;
-            const navLinks = document.querySelectorAll(".main-nav a[href^='#']");
+
+            const navLinks = document.querySelectorAll(".main-nav a[href*='#']");
             const sections = document.querySelectorAll("section[id]");
             const header = document.querySelector(".main-header");
+
             function setActiveLink() {
                 const scrollPos = window.scrollY + (header?.offsetHeight || 0) + 10;
                 sections.forEach(section => {
                     const top = section.offsetTop;
                     const bottom = top + section.offsetHeight;
                     const id = section.id;
-                    const link = document.querySelector(`.main-nav a[href="#${id}"]`);
+                    const link = document.querySelector(`.main-nav a[href*="#${id}"]`);
                     if (link && scrollPos >= top && scrollPos < bottom) {
                         navLinks.forEach(a => a.classList.remove("active"));
                         link.classList.add("active");
                     }
                 });
             }
+
+            
             navLinks.forEach(link => {
                 link.addEventListener("click", function (e) {
-                    const target = document.querySelector(this.hash);
+                    const hash = this.hash || (this.href.includes('#') ? '#' + this.href.split('#')[1] : null);
+                    if (!hash) return;
+
+                    const target = document.querySelector(hash);
                     if (!target) return;
+
                     e.preventDefault();
                     navMenu.classList.remove("active");
-                    target.scrollIntoView({ behavior: "smooth" });
+                    menuToggle.classList.remove("active");
+
+                    const offset = header?.offsetHeight || 0;
+                    const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+
+                    window.scrollTo({
+                        top: targetPosition,
+                        behavior: "smooth"
+                    });
                 });
             });
+
             window.addEventListener("scroll", setActiveLink);
         });
     </script>

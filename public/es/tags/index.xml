@@ -9,17 +9,17 @@
     <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Conflicto</title>
-      <link>http://localhost:1313/es/tags/conflicto/</link>
-      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/tags/conflicto/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Família</title>
       <link>http://localhost:1313/es/tags/fam%C3%ADlia/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
       <guid>http://localhost:1313/es/tags/fam%C3%ADlia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Herencia</title>
+      <link>http://localhost:1313/es/tags/herencia/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/herencia/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Herencia</title>
-      <link>http://localhost:1313/es/tags/herencia/</link>
-      <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/es/tags/herencia/</guid>
+      <title>Hernecia</title>
+      <link>http://localhost:1313/es/tags/hernecia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/es/tags/hernecia/</guid>
       <description></description>
     </item>
   </channel>

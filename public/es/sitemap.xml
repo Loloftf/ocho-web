@@ -41,21 +41,11 @@
                 href="http://localhost:1313/es/blog/capitulaciones/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/conflicto/</loc>
+    <loc>http://localhost:1313/es/blog/comunicacion-foral/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/blog/divorcio/</loc>
+    <loc>http://localhost:1313/es/blog/derecho-familia/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/blog/divorcio/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blog/divorcio/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/tags/fam%C3%ADlia/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
@@ -70,18 +60,8 @@
                 href="http://localhost:1313/es/tags/fam%C3%ADlia/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/blog/matrimonio-internacional/</loc>
+    <loc>http://localhost:1313/es/blog/separacion-bienes/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/blog/matrimonio-internacional/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blog/matrimonio-internacional/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/tags/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
@@ -102,21 +82,8 @@
     <loc>http://localhost:1313/es/tags/familia/</loc>
     <lastmod>2026-01-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/es/tags/herencia/</loc>
+    <loc>http://localhost:1313/es/blog/gananciales/</loc>
     <lastmod>2026-01-10T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/es/blog/herencia-sin-conflictos/</loc>
-    <lastmod>2026-01-10T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:1313/pt/blog/herencia-sin-conflictos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://localhost:1313/es/blog/herencia-sin-conflictos/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/aviso-legal/</loc>
     <xhtml:link

@@ -9,13 +9,13 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://api.fontshare.com/v2/css?f[]=didot@400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/styles.css?v=1.1">
+    <link rel="stylesheet" href="/styles.css?v=1.3">
 </head>
 
 <body>
     <header class="main-header">
-        <div class="container">
-            <a href="/pt/%20/" class="brand-identity">
+        <div class="container header-container">
+            <a href="/pt/" class="brand-identity">
                 <svg class="header-infinito" viewBox="0 0 100 50">
     <path d="M25,12.5 C15,12.5 5,20 5,30 C5,40 15,47.5 25,47.5 C35,47.5 45,35 50,30 C55,25 65,12.5 75,12.5 C85,12.5 95,20 95,30 C95,40 85,47.5 75,47.5 C65,47.5 55,35 50,30 C45,25 35,12.5 25,12.5 Z" />
 </svg>
@@ -24,14 +24,14 @@
             </a>
             <nav class="main-nav">
                 <ul>
-                    <li><a href="/pt/%20/#servicios" class="nav-link">Serviços</a>
+                    <li><a href="/pt/#servicios" class="nav-link">Serviços</a>
                     </li>
-                    <li><a href="/pt/%20/blog/">Te Interesa</a></li>
-                    <li><a href="/pt/%20/#fer" class="nav-link">Quem sou</a></li>
-                    <li><a href="/pt/%20/#contacto" class="nav-link btn-cta-nav">Fale comigo</a></li>
+                    <li><a href="/pt/blog/">Te Interesa</a></li>
+                    <li><a href="/pt/#fer" class="nav-link">Quem sou</a></li>
+                    <li><a href="/pt/#contacto" class="nav-link btn-cta-nav">Fale comigo</a></li>
                     <li class="lang-switcher">
                         
-                        <a href="/pt/categories/">ES</a>
+                        <a href="/es/categories/">ES</a>
                         <span class="lang-sep">|</span>
                         <span class="active">PT</span>
                         
@@ -58,13 +58,13 @@
             <p class="footer-brand">&copy; 2026 OCHO</p>
             <p class="footer-text">Advocacia Preventiva. Rigor e proximidade por Fer.</p>
             <nav class="footer-legal">
-                <a href="/pt/%20/aviso-legal/">Aviso Legal</a>
+                <a href="/pt/aviso-legal/">Aviso Legal</a>
                 <span>|</span>
-                <a href="/pt/%20/politica-privacidad/">Privacidad</a>
+                <a href="/pt/politica-privacidad/">Privacidad</a>
                 <span>|</span>
-                <a href="/pt/%20/cookies/">Cookies</a>
+                <a href="/pt/cookies/">Cookies</a>
                 <span>|</span>
-                <a href="/pt/%20/condiciones/">Condiciones</a>
+                <a href="/pt/condiciones/">Condiciones</a>
             </nav>
         </div>
     </footer>
@@ -72,6 +72,8 @@
         document.addEventListener("DOMContentLoaded", function () {
             const menuToggle = document.getElementById("menu-toggle");
             const navMenu = document.querySelector(".main-nav ul");
+
+            
             document.querySelectorAll(".main-nav a").forEach(link => {
                 link.addEventListener("click", () => {
                     if (window.innerWidth <= 900 && navMenu.classList.contains("active")) {
@@ -80,39 +82,68 @@
                     }
                 });
             });
+
+            
             if (menuToggle && navMenu) {
-                menuToggle.addEventListener("click", () => {
+                menuToggle.addEventListener("click", (e) => {
+                    e.stopPropagation();
                     navMenu.classList.toggle("active");
                     menuToggle.classList.toggle("active");
                 });
             }
+
+            
+            document.addEventListener("click", (e) => {
+                if (window.innerWidth <= 900 && navMenu.classList.contains("active")) {
+                    if (!navMenu.contains(e.target) && !menuToggle.contains(e.target)) {
+                        navMenu.classList.remove("active");
+                        menuToggle.classList.remove("active");
+                    }
+                }
+            });
+
             const isHome = document.body.classList.contains("home") || document.querySelector("section[id]");
             if (!isHome) return;
-            const navLinks = document.querySelectorAll(".main-nav a[href^='#']");
+
+            const navLinks = document.querySelectorAll(".main-nav a[href*='#']");
             const sections = document.querySelectorAll("section[id]");
             const header = document.querySelector(".main-header");
+
             function setActiveLink() {
                 const scrollPos = window.scrollY + (header?.offsetHeight || 0) + 10;
                 sections.forEach(section => {
                     const top = section.offsetTop;
                     const bottom = top + section.offsetHeight;
                     const id = section.id;
-                    const link = document.querySelector(`.main-nav a[href="#${id}"]`);
+                    const link = document.querySelector(`.main-nav a[href*="#${id}"]`);
                     if (link && scrollPos >= top && scrollPos < bottom) {
                         navLinks.forEach(a => a.classList.remove("active"));
                         link.classList.add("active");
                     }
                 });
             }
+
+            
             navLinks.forEach(link => {
                 link.addEventListener("click", function (e) {
-                    const target = document.querySelector(this.hash);
+                    const hash = this.hash || (this.href.includes('#') ? '#' + this.href.split('#')[1] : null);
+                    if (!hash) return;
+
+                    const target = document.querySelector(hash);
                     if (!target) return;
+
                     e.preventDefault();
-                    navMenu.classList.remove("active");
-                    target.scrollIntoView({ behavior: "smooth" });
+
+                    const offset = header?.offsetHeight || 0;
+                    const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+
+                    window.scrollTo({
+                        top: targetPosition,
+                        behavior: "smooth"
+                    });
                 });
             });
+
             window.addEventListener("scroll", setActiveLink);
         });
     </script>

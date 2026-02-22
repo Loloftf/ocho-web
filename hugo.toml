@@ -4,6 +4,8 @@ defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 languageCode = "es-es"
 
+publishDir = "docs"
+
 [languages]
 
 [languages.es]

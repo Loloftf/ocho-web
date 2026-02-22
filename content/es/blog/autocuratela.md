@@ -26,9 +26,8 @@ Ignorando el riesgo no lo eliminas,
 lo único que consigues es que te pille sin un plan.
 
 La autocuratela es ese plan.
-* Un paso a paso hecho sin generalidades,
+* Un paso a paso hecho sin generalidades.
 * Siguiendo tus propias reglas.
-
 * Implica decidir hoy lo que quieres que ocurra,
 por si mañana no puedes hacerlo.
 
@@ -44,17 +43,16 @@ Afortunadamente, desde hace unos años ya no se incapacita a nadie.
 
 **Ahora se prestan apoyos**.
 
-Es un procedimiento en el que se debe:
-* valorar y escuchar.
-* Tanto a la persona con discapacidad como a su entorno.
+La autocuratela es un procedimiento en el que se debe:
+* **valorar** y **escuchar**.
+* Tanto a la persona con discapacidad **como a su entorno**.
 
-Pero ningún procedimiento puede sustituir tu propia voluntad.
-La autocuratela lo hace posible.
+Porque ningún procedimiento legal debería poder sustituir tu propia voluntad. Y la autocuratela lo hace posible.
 
 Abandonemos esa idea de que la autocuratela:
 * Atrae a la enfermedad.
 * Es un documento inútil.
 
 Lo que realmente hace es:
-* **Darnos voz y voto** para seguir escribiendo nuestra historia, 
-* Y quizás lo más importante, o no...**Liberar a nuestra familia** del peso de decidir.
+* **Darnos voz y voto** para seguir escribiendo nuestra historia.
+* Y quizás lo más importante, **liberar a nuestra familia** del peso de decidir.

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OCHO</title>
+    <link>http://localhost:1313/pt/tags/</link>
+    <description>Recent content in Tags on OCHO</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conflito</title>
+      <link>http://localhost:1313/pt/tags/conflito/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/tags/conflito/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Família</title>
+      <link>http://localhost:1313/pt/tags/fam%C3%ADlia/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/tags/fam%C3%ADlia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tranquilidade</title>
+      <link>http://localhost:1313/pt/tags/tranquilidade/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/tags/tranquilidade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Herança</title>
+      <link>http://localhost:1313/pt/tags/heran%C3%A7a/</link>
+      <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/tags/heran%C3%A7a/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

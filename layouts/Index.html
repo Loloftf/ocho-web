@@ -61,7 +61,7 @@
                 {{ range first 3 $langPages }}
                 <a href="{{ .RelPermalink }}" class="blog-card">
                     {{ with .Params.image }}
-                    <img src="{{ . }}" class="blog-thumb" alt="{{ $.Title }}"> <!-- <-- usa $.Title -->
+                    <img src="{{ . | relURL }}" class="blog-thumb" alt="{{ $.Title }}">
                     {{ end }}
                     <div class="blog-content">
                         {{ with .Params.tag }}
@@ -83,7 +83,7 @@
         <div class="container">
             <div class="about-grid">
                 <div class="about-image">
-                    <img src="{{ " images/Fer.jpg" | relURL }}" alt="Fer, abogada experta en derecho preventivo">
+                    <img src="{{ "images/Fer.jpg" | relURL }}" alt="Fer, abogada experta en derecho preventivo">
                 </div>
                 <div class="about-content">
                     <h2 class="section-title">{{ i18n "about_title" }}</h2>

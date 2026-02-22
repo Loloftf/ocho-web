@@ -2,147 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://loloftf.github.io/ocho-web/pt/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/"
+                href="http://localhost:1313/ocho-web/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/"
+                href="http://localhost:1313/ocho-web/pt/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/blog/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/blog/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/blog/"
+                href="http://localhost:1313/ocho-web/es/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/blog/"
+                href="http://localhost:1313/ocho-web/pt/blog/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/blog/capitulaciones/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/blog/capitulaciones/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/blog/capitulaciones/"
+                href="http://localhost:1313/ocho-web/es/blog/capitulaciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/blog/capitulaciones/"
+                href="http://localhost:1313/ocho-web/pt/blog/capitulaciones/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/blog/matrimonio-internacional/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/blog/matrimonio-internacional/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/tags/conflito/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/tags/conflito/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/blog/divorcio/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/blog/divorcio/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/tags/fam%C3%ADlia/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/tags/fam%C3%ADlia/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/tags/fam%C3%ADlia/"
+                href="http://localhost:1313/ocho-web/es/tags/fam%C3%ADlia/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/tags/fam%C3%ADlia/"
+                href="http://localhost:1313/ocho-web/pt/tags/fam%C3%ADlia/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/tags/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/tags/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/tags/"
+                href="http://localhost:1313/ocho-web/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/tags/"
+                href="http://localhost:1313/ocho-web/pt/tags/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/tags/tranquilidade/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/tags/tranquilidade/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/tags/heran%C3%A7a/</loc>
     <lastmod>2026-01-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/blog/herencia-sin-conflictos/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/blog/herencia-sin-conflictos/</loc>
     <lastmod>2026-01-10T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/aviso-legal/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/aviso-legal/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/aviso-legal/"
+                href="http://localhost:1313/ocho-web/es/aviso-legal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/aviso-legal/"
+                href="http://localhost:1313/ocho-web/pt/aviso-legal/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/categories/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/categories/"
+                href="http://localhost:1313/ocho-web/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/categories/"
+                href="http://localhost:1313/ocho-web/pt/categories/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/condiciones/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/condiciones/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/condiciones/"
+                href="http://localhost:1313/ocho-web/es/condiciones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/condiciones/"
+                href="http://localhost:1313/ocho-web/pt/condiciones/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/cookies/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/cookies/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/cookies/"
+                href="http://localhost:1313/ocho-web/es/cookies/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/cookies/"
+                href="http://localhost:1313/ocho-web/pt/cookies/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/politica-privacidad/</loc>
+    <loc>http://localhost:1313/ocho-web/pt/politica-privacidad/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/politica-privacidad/"
+                href="http://localhost:1313/ocho-web/es/politica-privacidad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/politica-privacidad/"
+                href="http://localhost:1313/ocho-web/pt/politica-privacidad/"
                 />
   </url>
 </urlset>

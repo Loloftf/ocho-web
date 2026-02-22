@@ -1,10 +1,10 @@
 baseURL = "https://loloftf.github.io/ocho-web/"
+publishDir = "docs"
+relativeURLs = true
 title = "OCHO"
 defaultContentLanguage = "es"
 defaultContentLanguageInSubdir = true
 languageCode = "es-es"
-publishDir = "docs"
-relativeURLs = true
 
 [languages]
 

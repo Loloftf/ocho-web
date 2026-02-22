@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herança on OCHO</title>
-    <link>http://localhost:1313/pt/tags/heran%C3%A7a/</link>
+    <link>https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/</link>
     <description>Recent content in Herança on OCHO</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sat, 10 Jan 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/tags/heran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Herança sem conflitos</title>
-      <link>http://localhost:1313/pt/blog/herencia-sin-conflictos/</link>
+      <link>https://loloftf.github.io/ocho-web/pt/blog/herencia-sin-conflictos/</link>
       <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/blog/herencia-sin-conflictos/</guid>
+      <guid>https://loloftf.github.io/ocho-web/pt/blog/herencia-sin-conflictos/</guid>
       <description>&lt;p&gt;As heranças costumam ser a “tempestade perfeita”: misturam dinheiro, lutos mal resolvidos e antigas dinâmicas familiares. Muitas vezes, o que está em discussão não é o valor de um objeto, mas quem foi mais amado ou quem cuidou mais dos pais.&lt;/p&gt;&#xA;&lt;p&gt;Aqui estão 3 chaves fundamentais para evitar que o patrimônio se transforme em um campo de batalha:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Comunicação em vida (quebrar o tabu)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;O erro mais comum é tratar o testamento como um segredo de Estado, revelado apenas após o falecimento. A surpresa costuma gerar desconfiança.&lt;/p&gt;</description>
     </item>
   </channel>

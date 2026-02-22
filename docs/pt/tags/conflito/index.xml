@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conflito on OCHO</title>
-    <link>http://localhost:1313/pt/tags/conflito/</link>
+    <link>https://loloftf.github.io/ocho-web/pt/tags/conflito/</link>
     <description>Recent content in Conflito on OCHO</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/tags/conflito/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loloftf.github.io/ocho-web/pt/tags/conflito/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Estou divorciado. E agora?</title>
-      <link>http://localhost:1313/pt/blog/divorcio/</link>
+      <link>https://loloftf.github.io/ocho-web/pt/blog/divorcio/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/blog/divorcio/</guid>
+      <guid>https://loloftf.github.io/ocho-web/pt/blog/divorcio/</guid>
       <description>&lt;p&gt;Este é, possivelmente, o maior medo de pais divorciados com filhos menores de idade. Eles têm verdadeiro pavor de que, caso venham a falecer, o ex-cônjuge passe a controlar o dinheiro deixado aos filhos.&lt;/p&gt;&#xA;&lt;p&gt;O gancho:&#xA;&amp;ldquo;Você refez sua vida, mas se preocupa com o que vai acontecer com o patrimônio dos seus filhos se um dia você faltar. Seu ex-marido ou ex-esposa terá as chaves da conta bancária?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Pontos-chave a abordar:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -596,6 +596,10 @@ h3 {
     font-size: 0.75rem;
   }
 
+  .hero-line-1 {
+    white-space: normal;
+  }
+
   .footer-brand {
     font-size: 0.85rem;
   }

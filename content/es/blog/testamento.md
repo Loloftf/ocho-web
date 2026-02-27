@@ -2,7 +2,7 @@
 title = "Vamos a morir"
 description = "Qué debes de tener en cuenta a la hora de hacer un testamento"
 date = 2026-01-18T10:00:00
-image = "/images/internacional.jpg"
+image = "/images/morir.jpg"
 tags = ["Herencia"]
 +++
 

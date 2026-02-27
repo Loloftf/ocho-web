@@ -2,7 +2,7 @@
 title = "Derecho de familia preventivo: por qué llegar a tiempo lo cambia todo."
 description = "El derecho de familia no debe ser un extintor que solo usas cuando hay fuego. Debe ser el plano arquitectónico que asegura que tu casa sea sólida y segura desde el primer día."
 date = 2026-01-18T10:00:00
-image = "/images/divorcio.jpg"
+image = "/images/familia.jpg"
 tags = ["Tranquilidad"]
 +++
 

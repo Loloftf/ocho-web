@@ -2,7 +2,7 @@
 title = "Separación de bienes: cuando lo tuyo es tuyo y lo mío es mío."
 description = "Conoce las características del régimen de separación de bienes."
 date = 2026-01-18T10:00:00
-image = "/images/internacional.jpg"
+image = "/images/pareja-firmando.jpg"
 tags = ["Tranquilidad"]
 +++
 

@@ -2,7 +2,7 @@
 title = "Autocuratela"
 description = "O que é e por que é importante a Autocuratela"
 date = 2026-01-18T10:00:00
-image = "/images/internacional.jpg"
+image = "/images/pareja-mayor.jpg"
 tags = ["Tranquilidade"]
 +++
 

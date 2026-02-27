@@ -2,7 +2,7 @@
 title = "El mejor régimen económico matrimonial no existe."
 description = "Las preguntas que debes hacerte antes de elegir un régimen económico matrimonial."
 date = 2026-01-18T10:00:00
-image = "/images/internacional.jpg"
+image = "/images/regimen-economico.jpg"
 tags = ["Tranquilidad"]
 +++
 

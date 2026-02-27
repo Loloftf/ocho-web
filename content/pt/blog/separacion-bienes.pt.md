@@ -2,7 +2,7 @@
 title = "Separação de bens: quando o teu é teu e o meu é meu."
 description = "Conhece as características do regime de separação de bens."
 date = 2026-01-18T10:00:00
-image = "/images/internacional.jpg"
+image = "/images/pareja-firmando.jpg"
 tags = ["Tranquilidade"]
 +++
 

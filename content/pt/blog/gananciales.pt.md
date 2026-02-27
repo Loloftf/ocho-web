@@ -2,7 +2,7 @@
 title = "Comunhão de adquiridos: Partilhar tudo por defeito nem sempre é boa ideia."
 description = "Conhece as características do regime de comunhão de adquiridos."
 date = 2026-01-10T10:00:00
-image = "/images/herencia.jpg"
+image = "/images/sharing.jpg"
 tags = ["Família"]
 +++
 

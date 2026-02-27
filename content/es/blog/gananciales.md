@@ -2,7 +2,7 @@
 title = "Gananciales: Compartirlo todo por defecto no siempre es buena idea."
 description = "Conoce las características del régimen de gananciales."
 date = 2026-01-10T10:00:00
-image = "/images/herencia.jpg"
+image = "/images/sharing.jpg"
 tags = ["Familia"]
 +++
 

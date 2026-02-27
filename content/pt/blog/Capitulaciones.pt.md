@@ -23,9 +23,9 @@ Sem entrar em tecnicismos.
 
 Portanto, servem para:
 
-- Escolher o vosso regime de bens (comunhão de adquiridos, separação de bens, etc.).
-- Deixar claro o que cada um aporta e como se protege.
-- Evitar discussões futuras se a relação terminar.
+- Escolher o **vosso regime de bens** (comunhão de adquiridos, separação de bens, etc.).
+- Deixar claro o **que cada um aporta** e como se protege.
+- **Evitar discussões** futuras se a relação terminar.
 
 
 Porque nem todos os caminhos conduzem a Roma.

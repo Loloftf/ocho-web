@@ -23,9 +23,9 @@ Es un acuerdo entre tu pareja y tú, donde decidís cómo queréis organizar vue
 
 Por lo tanto, sirven para:
 
-- Elegir vuestro régimen económico (gananciales, separación de bienes, etc.).
-- Dejar claro qué aporta cada uno y cómo se protege.
-- Evitar discusiones futuras si la relación termina.
+- Elegir vuestro **régimen económico** (gananciales, separación de bienes, etc.).
+- Dejar claro **qué aporta cada uno** y cómo se protege.
+- **Evitar discusiones** futuras si la relación termina.
 
 
 Porque no todos los caminos conducen a Roma.

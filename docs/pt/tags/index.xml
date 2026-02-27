@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OCHO</title>
-    <link>http://localhost:1313/ocho-web/pt/tags/</link>
+    <link>https://loloftf.github.io/ocho-web/pt/tags/</link>
     <description>Recent content in Tags on OCHO</description>
     <generator>Hugo</generator>
     <language>pt</language>
     <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ocho-web/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loloftf.github.io/ocho-web/pt/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Família</title>
-      <link>http://localhost:1313/ocho-web/pt/tags/fam%C3%ADlia/</link>
+      <link>https://loloftf.github.io/ocho-web/pt/tags/fam%C3%ADlia/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocho-web/pt/tags/fam%C3%ADlia/</guid>
+      <guid>https://loloftf.github.io/ocho-web/pt/tags/fam%C3%ADlia/</guid>
       <description></description>
     </item>
     <item>
       <title>Herança</title>
-      <link>http://localhost:1313/ocho-web/pt/tags/heran%C3%A7a/</link>
+      <link>https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocho-web/pt/tags/heran%C3%A7a/</guid>
+      <guid>https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/</guid>
       <description></description>
     </item>
     <item>
       <title>Tranquilidade</title>
-      <link>http://localhost:1313/ocho-web/pt/tags/tranquilidade/</link>
+      <link>https://loloftf.github.io/ocho-web/pt/tags/tranquilidade/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocho-web/pt/tags/tranquilidade/</guid>
+      <guid>https://loloftf.github.io/ocho-web/pt/tags/tranquilidade/</guid>
       <description></description>
     </item>
   </channel>

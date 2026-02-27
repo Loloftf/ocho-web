@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Herencia on OCHO</title>
-    <link>http://localhost:1313/ocho-web/es/tags/herencia/</link>
+    <link>https://loloftf.github.io/ocho-web/es/tags/herencia/</link>
     <description>Recent content in Herencia on OCHO</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/ocho-web/es/tags/herencia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loloftf.github.io/ocho-web/es/tags/herencia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vamos a morir</title>
-      <link>http://localhost:1313/ocho-web/es/blog/testamento/</link>
+      <link>https://loloftf.github.io/ocho-web/es/blog/testamento/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ocho-web/es/blog/testamento/</guid>
+      <guid>https://loloftf.github.io/ocho-web/es/blog/testamento/</guid>
       <description>&lt;p&gt;Esto es lo único que sabemos al 100% que ocurrirá.&lt;/p&gt;&#xA;&lt;p&gt;Y aún así, vivimos como si fuéramos &lt;strong&gt;inmortales&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Planes para dentro de 5 años, ahorros para “ese viaje”&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Estamos continuamente postergando:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;decisiones.&lt;/li&gt;&#xA;&lt;li&gt;conversaciones.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Como si el tiempo estuviera garantizado.&lt;/p&gt;&#xA;&lt;p&gt;Nos olvidamos de lo que tenemos y podemos hacer&amp;hellip;.&lt;strong&gt;ahora&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;En mi casa se evitó hablar de la muerte durante años.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Había una especie de pensamiento interiorizado:&lt;/p&gt;&#xA;&lt;p&gt;“Si no hablo de esto, no pasará”.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -740,3 +740,22 @@ section {
 .footer-legal span {
   opacity: 0.5;
 }
+
+/* --- LEGAL PAGES CONTENT --- */
+.legal .content p,
+.legal .content ul,
+.legal .content ol {
+  margin-bottom: 1.5rem;
+}
+
+.legal .content li {
+  margin-bottom: 0.8rem;
+}
+
+.legal .content h1,
+.legal .content h2,
+.legal .content h3 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.2rem;
+  color: var(--color-primary);
+}

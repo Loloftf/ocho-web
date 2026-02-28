@@ -43,3 +43,4 @@ weight = 2
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+      hardLineBreak = true

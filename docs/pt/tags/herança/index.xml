@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Herança on OCHO</title><link>https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/</link><description>Recent content in Herança on OCHO</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate><atom:link href="https://loloftf.github.io/ocho-web/pt/tags/heran%C3%A7a/index.xml" rel="self" type="application/rss+xml"/><item><title>Vamos morrer</title><link>https://loloftf.github.io/ocho-web/pt/blog/testamento/</link><pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate><guid>https://loloftf.github.io/ocho-web/pt/blog/testamento/</guid><description>&lt;p&gt;Isto é a única coisa que sabemos a 100% que vai acontecer.&lt;/p&gt;
-&lt;p&gt;E, ainda assim, vivemos como se fôssemos &lt;strong&gt;imortais&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Planos para daqui a 5 anos, poupanças para “aquela viagem”…&lt;/p&gt;
-&lt;p&gt;Estamos constantemente a adiar:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;decisões.&lt;/li&gt;
-&lt;li&gt;conversas.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Como se o tempo estivesse garantido.&lt;/p&gt;
-&lt;p&gt;Esquecemo-nos do que temos e do que podemos fazer… &lt;strong&gt;agora&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Em minha casa evitou-se falar da morte durante anos.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Havia uma espécie de pensamento interiorizado:&lt;/p&gt;
-&lt;p&gt;“Se eu não falar disto, não vai acontecer.”&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Herança on OCHO</title>
+    <link>http://localhost:58421/ocho-web/pt/tags/heran%C3%A7a/</link>
+    <description>Recent content in Herança on OCHO</description>
+    <generator>Hugo</generator>
+    <language>pt</language>
+    <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:58421/ocho-web/pt/tags/heran%C3%A7a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vamos morrer</title>
+      <link>http://localhost:58421/ocho-web/pt/blog/testamento/</link>
+      <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
+      <guid>http://localhost:58421/ocho-web/pt/blog/testamento/</guid>
+      <description>&lt;p&gt;Isto é a única coisa que sabemos a 100% que vai acontecer.&lt;/p&gt;&#xA;&lt;p&gt;E, ainda assim, vivemos como se fôssemos &lt;strong&gt;imortais&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Planos para daqui a 5 anos, poupanças para “aquela viagem”…&lt;/p&gt;&#xA;&lt;p&gt;Estamos constantemente a adiar:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;decisões.&lt;/li&gt;&#xA;&lt;li&gt;conversas.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Como se o tempo estivesse garantido.&lt;/p&gt;&#xA;&lt;p&gt;Esquecemo-nos do que temos e do que podemos fazer… &lt;strong&gt;agora&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Em minha casa evitou-se falar da morte durante anos.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Havia uma espécie de pensamento interiorizado:&lt;/p&gt;&#xA;&lt;p&gt;“Se eu não falar disto, não vai acontecer.”&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

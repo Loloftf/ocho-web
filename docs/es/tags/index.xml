@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on OCHO</title>
-    <link>http://localhost:58421/ocho-web/es/tags/</link>
+    <link>https://loloftf.github.io/ocho-web/es/tags/</link>
     <description>Recent content in Tags on OCHO</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Sun, 18 Jan 2026 10:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:58421/ocho-web/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://loloftf.github.io/ocho-web/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Família</title>
-      <link>http://localhost:58421/ocho-web/es/tags/fam%C3%ADlia/</link>
+      <link>https://loloftf.github.io/ocho-web/es/tags/fam%C3%ADlia/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:58421/ocho-web/es/tags/fam%C3%ADlia/</guid>
+      <guid>https://loloftf.github.io/ocho-web/es/tags/fam%C3%ADlia/</guid>
       <description></description>
     </item>
     <item>
       <title>Herencia</title>
-      <link>http://localhost:58421/ocho-web/es/tags/herencia/</link>
+      <link>https://loloftf.github.io/ocho-web/es/tags/herencia/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:58421/ocho-web/es/tags/herencia/</guid>
+      <guid>https://loloftf.github.io/ocho-web/es/tags/herencia/</guid>
       <description></description>
     </item>
     <item>
       <title>Tranquilidad</title>
-      <link>http://localhost:58421/ocho-web/es/tags/tranquilidad/</link>
+      <link>https://loloftf.github.io/ocho-web/es/tags/tranquilidad/</link>
       <pubDate>Sun, 18 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:58421/ocho-web/es/tags/tranquilidad/</guid>
+      <guid>https://loloftf.github.io/ocho-web/es/tags/tranquilidad/</guid>
       <description></description>
     </item>
     <item>
       <title>Familia</title>
-      <link>http://localhost:58421/ocho-web/es/tags/familia/</link>
+      <link>https://loloftf.github.io/ocho-web/es/tags/familia/</link>
       <pubDate>Sat, 10 Jan 2026 10:00:00 +0000</pubDate>
-      <guid>http://localhost:58421/ocho-web/es/tags/familia/</guid>
+      <guid>https://loloftf.github.io/ocho-web/es/tags/familia/</guid>
       <description></description>
     </item>
   </channel>

@@ -400,12 +400,17 @@ h3 {
   gap: 8px;
 }
 
-.contact-form label:not(.form-privacy label) {
+.contact-form label {
   font-size: 0.9rem;
   font-weight: 700;
   color: rgba(255, 255, 255, 0.9);
   text-transform: uppercase;
   letter-spacing: 0.5px;
+}
+
+.contact-form .form-privacy label {
+  text-transform: none;
+  font-weight: 300;
 }
 
 .contact-form input,

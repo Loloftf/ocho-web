@@ -6,7 +6,7 @@ image = "/images/sharing.jpg"
 tags = ["Família"]
 +++
 
-Há 3 coisas sobre as quais deveríamos falar antes do “sim, aceito”:
+**Há 3 coisas sobre as quais deveríamos falar antes do “sim, aceito”:**
 
 * Se preferimos a tortilla com ou sem cebola.
 * Se queremos ter filhos.
@@ -24,7 +24,7 @@ A **comunhão de adquiridos** é uma delas.
 
 Spoiler: é o regime que se aplica por defeito em grande parte do território.
 
-**Como funciona?**
+## Como funciona?
 
 O que existe antes, regra geral, mantém-se como está.
 
@@ -47,7 +47,7 @@ Porque o casal começa a funcionar como uma equipa de futebol: todos juntos.
 
 Nestes casos, é um regime que protege e equilibra.
 
-**Quando começam os problemas?**
+## Quando começam os problemas?
 
 Basicamente em 2 situações:
 
@@ -58,7 +58,7 @@ Definir as regras do jogo antes de o jogo terminar é sempre o mais inteligente.
 
 Porque a vida a dois é tudo menos estática.
 
-**O erro mais habitual.**
+## O erro mais habitual.
 
 A maioria das pessoas só pensa no que significa estar em comunhão de adquiridos quando:
 
@@ -68,7 +68,7 @@ A maioria das pessoas só pensa no que significa estar em comunhão de adquirido
 
 E então já não se decide com calma nem com critério.
 
-**Uma nota importante.**
+## Uma nota importante.
 
 Comunhão de adquiridos não é sinónimo de justiça ou equilíbrio.
 
@@ -82,7 +82,7 @@ O importante é que faça sentido para ti.
 
 Que seja coerente com a vossa forma de viver.
 
-**A paz de espírito assina-se antes de ser necessária.**
+## A paz de espírito assina-se antes de ser necessária.
 
 Não falar sobre isto com o teu parceiro.
 

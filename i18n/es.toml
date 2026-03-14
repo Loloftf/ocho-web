@@ -11,7 +11,7 @@ hero_cta = "Cuéntame"
 
 # --- SERVICIOS ---
 services_title = "Lo que puedo hacer por ti"
-services_subtitle = "Mi objetivo no es solo ganar tus batallas, es evitar que tengas que librarlas. Actúa ahora para que el futuro no te sorprenda."
+services_subtitle = "Actúa ahora para que el futuro no te sorprenda."
 service_heritage_title = "Planificación personal y patrimonial"
 service_heritage_text = "Ordenar hoy para evitar conflictos mañana.<br><br>• Capitulaciones matrimoniales<br>• Pactos prematrimoniales<br>• Pactos de convivencia<br>• Pactos en previsión de ruptura<br>• Protocolo familiar<br>• Exequatur (legalización de divorcio)"
 service_family_title = "Organización familiar tras la ruptura"
@@ -46,6 +46,7 @@ form_email = "Email"
 form_phone = "Teléfono"
 form_message = "¿Qué aspecto de tu futuro quieres dejar protegido hoy?"
 form_cta = "Solicitar análisis preventivo"
+form_privacy = "He leído y acepto la Política de Privacidad."
 
 # --- FOOTER ---
 footer_text = "Abogacía Preventiva. Rigor y cercanía por Fer."

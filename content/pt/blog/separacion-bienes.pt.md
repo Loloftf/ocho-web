@@ -16,7 +16,7 @@ No entanto, muitos casais escolhem-na por uma razão:
 
 E pode ser prática, mas não para toda a gente.
 
-**Como funciona?**
+## Como funciona?
 
 Na separação de bens não existe um património comum como na comunhão de adquiridos.
 
@@ -45,7 +45,7 @@ Não é um regime para improvisar.
 
 
 
-**Qual é o erro mais habitual?**
+## Qual é o erro mais habitual?
 
 Escolher separação de bens.
 
@@ -53,7 +53,7 @@ Mas viver como se tudo fosse dos dois.
 
 Pode acabar por se tornar um problema desnecessário.
 
-**Para terminar…**
+## Para terminar…
 
 A separação de bens não é melhor nem pior do que outros regimes.
 

@@ -6,11 +6,11 @@ image = "/images/morir.jpg"
 tags = ["Herança"]
 +++
 
-Isto é a única coisa que sabemos a 100% que vai acontecer.
+Isto é a única coisa que **sabemos a 100% que vai acontecer**.
 
 E, ainda assim, vivemos como se fôssemos **imortais**.
 
-Planos para daqui a 5 anos, poupanças para “aquela viagem”…
+Planos para daqui a 5 anos, poupanças para “aquela viagem”...
 
 Estamos constantemente a adiar:
 * decisões.

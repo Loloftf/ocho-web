@@ -6,9 +6,9 @@ image = "/images/pareja.jpg"
 tags = ["Família"]
 +++
 
-Nadie contrata un seguro pensando en tener un accidente. 
+**Nadie contrata un seguro pensando en tener un accidente.** 
 
-Pero tenerlo marca la diferencia cuando lo necesitas.
+Pero **tenerlo**, marca la diferencia cuando lo necesitas.
 
 Con las capitulaciones matrimoniales pasa, exactamente, lo mismo.
 

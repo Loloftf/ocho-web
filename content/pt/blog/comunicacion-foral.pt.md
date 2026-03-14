@@ -18,8 +18,7 @@ Mas não estão.
 
 (E não porque tenham escolhido outra coisa).
 
-
-**O que é a comunicação foral?**
+## O que é a comunicação foral?
 
 É o regime económico matrimonial próprio da Biscaia, que pode aplicar-se quando não se pactua algo diferente.
 
@@ -32,14 +31,14 @@ Além disso, é um **regime “transformer”**:
 * Só se aplica em caso de falecimento com filhos.
 * Mas, se houver divórcio, transforma-se em comunhão de adquiridos.
 
-**Quando pode encaixar bem?**
+## Quando pode encaixar bem?
 A comunicação foral costuma funcionar quando:
 * Existe um **projeto familiar consolidado**.
 * O património é concebido como algo **comum**.
 * Se pretende reforçar a **proteção do cônjuge**.
 * Não existem atividades económicas com **riscos relevantes**.
 
-**Onde costumam surgir os sustos?**
+## Onde costumam surgir os sustos?
 
 Os problemas não surgem pela comunicação foral em si.
 

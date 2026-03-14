@@ -6,7 +6,7 @@ image = "/images/regimen-economico.jpg"
 tags = ["Tranquilidad"]
 +++
 
-O mejor dicho:
+**O mejor dicho:**
  **no existe uno que sirva para todo el mundo**.
 
 ¿Comprarías una casa sin saber cuántas habitaciones tiene?

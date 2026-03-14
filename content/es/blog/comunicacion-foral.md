@@ -6,7 +6,7 @@ image = "/images/firmar.jpg"
 tags = ["Tranquilidad"]
 +++
 
-En la vida, no elegir ya es una elección.
+**En la vida, no elegir ya es una elección.**
 
 Y cuando te casas esa “actitud” tiene una repercusión aún mayor.
 
@@ -19,7 +19,7 @@ Pero no lo están.
 (Y no porque hayan elegido otra cosa).
 
 
-**¿Qué es la comunicación foral?**
+## ¿Qué es la comunicación foral?
 
 Es el régimen económico matrimonial propio de Bizkaia, que puede llegar a aplicarse cuando no se pacta otra cosa.
 
@@ -32,14 +32,14 @@ Además, es un **régimen “transformer”**:
 * Solo se aplica en caso de fallecimiento con hijos.
 * Pero si hay divorcio se convierte en gananciales.
 
-**¿Cuándo puede encajar bien?**
+## ¿Cuándo puede encajar bien?
 La comunicación foral suele funcionar cuando:
 * Hay un **proyecto familiar consolidado**.
 * Se concibe el patrimonio como algo **común**.
 * Se quiere reforzar la **protección del cónyuge**.
 * No existen actividades económicas con **riesgos relevantes**.
 
-**¿Donde suelen venir los sustos?**
+## ¿Donde suelen venir los sustos?
 
 Los problemas no surgen por la comunicación foral en sí.
 
@@ -55,7 +55,7 @@ En Bizkaia, el silencio define tu presente y también tu futuro.
 
 Y muchas veces, de una forma distinta a la que habrías elegido.
 
-**Un apunte importante.**
+## Un apunte importante
 La comunicación foral:
 * puede ser una gran herramienta.
 * o un serio problema si no se comprende.

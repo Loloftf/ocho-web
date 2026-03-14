@@ -22,7 +22,7 @@ Agimos quando já não há alternativa.
 
 Mas no direito — como na vida — chegar a tempo muda tudo.
 
-**O que significa realmente “prevenir” no direito da família?**
+## O que significa realmente “prevenir” no direito da família?
 
 Prevenir não é desconfiar, nem viver no futuro.
 
@@ -37,7 +37,7 @@ O planeamento jurídico não evita todos os problemas.
 
 Mas **evita os piores.**
 
-**O erro evitável do “depois trato disso”.**
+## O erro evitável do “depois trato disso”.
 
 Na prática, esse “depois trato disso” significa que:
 
@@ -51,7 +51,7 @@ Deixarias as chaves da tua casa a um desconhecido?
 
 Então, por que deixar que uma solução genérica se aplique à tua realidade, que é única? O teu património, os teus filhos e as tuas necessidades não são um formulário padrão.
 
-**O teu “fundo de emergência” jurídico**
+## O teu “fundo de emergência” jurídico
 
 Com certeza compreendes o valor de ter poupanças para imprevistos: dão-te liberdade e tranquilidade.
 
@@ -78,7 +78,7 @@ E a minha resposta é a mesma: Não.
 
 O direito da família não deve ser um extintor que só usas quando há fogo. Deve ser o plano arquitetónico que garante que a tua casa seja sólida e segura desde o primeiro dia.
 
-**Para terminar, uma ideia simples**
+## Para terminar, uma ideia simples
 
 Utilizar o direito da família preventivo é como levar uma vacina.
 

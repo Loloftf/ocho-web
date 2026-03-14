@@ -67,7 +67,7 @@ No desde la rabia.
 
 
 Tu relación de pareja es tu mayor inversión.... 
-de tiempo, de dinero, de energía.
+de **tiempo**, de **dinero**, de **energía**.
 
 Saber hacia dónde vais y cómo lo llevaréis a cabo,
 determina tu bienestar.

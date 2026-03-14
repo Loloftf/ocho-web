@@ -16,7 +16,7 @@ Sin embargo, muchas parejas la eligen por una razón:
 
 Y puede ser practico, pero no para todo el mundo.
 
-**¿Cómo funciona?**
+## ¿Cómo funciona?
 
 En la separación de bienes no hay un todo común como en gananciales.
 
@@ -44,7 +44,7 @@ No es un régimen para improvisar.
 
 
 
-**¿Cuál es el  error más habitual?**
+## ¿Cuál es el  error más habitual?
 
 Elegir separación de bienes.
 
@@ -52,7 +52,7 @@ Pero vivir como si todo fuera de los dos.
 
 Puede acabar siendo un problema innecesario.
 
-**Para terminar...**
+## Para terminar...
 
 La separación de bienes no es mejor ni peor que otros regímenes.
 

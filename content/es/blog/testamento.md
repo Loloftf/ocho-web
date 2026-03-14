@@ -6,7 +6,7 @@ image = "/images/morir.jpg"
 tags = ["Herencia"]
 +++
 
-Esto es lo único que sabemos al 100% que ocurrirá.
+Esto es lo único que **sabemos al 100% que ocurrirá**.
 
 Y aún así, vivimos como si fuéramos **inmortales**.
 
@@ -57,9 +57,7 @@ Sin embargo, hay algo que sí compartimos: en ese momento, todos necesitamos est
 
 El testamento es eso:
 * Orden dentro del caos.
-* Una guía que dice:
-    * Esto es lo que quiero.
-    * Pero sobre todo, eso es lo que no quiero.
+* Una guía que dice: **"Esto es lo que quiero"**, pero sobre todo...**"Eso es lo que no quiero."**
 
 Es cuidar lo que más quieres cuando ya no estás.
 

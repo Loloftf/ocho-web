@@ -400,7 +400,7 @@ h3 {
   gap: 8px;
 }
 
-.contact-form label {
+.contact-form label:not(.form-privacy label) {
   font-size: 0.9rem;
   font-weight: 700;
   color: rgba(255, 255, 255, 0.9);

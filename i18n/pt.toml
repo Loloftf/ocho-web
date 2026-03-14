@@ -47,6 +47,7 @@ form_phone = "Telefone"
 form_message = "Que aspecto do seu futuro deseja proteger hoje?"
 form_cta = "Solicitar análisis preventivo"
 form_privacy = "Li e aceito a política de privacidade."
+form_privacy_basic = "Informação básica sobre proteção de dados: Responsável: Fernanda Rogério Iglesias. Finalidade: gerir o seu pedido e contacto. Legitimidade: Consentimento do interessado. Destinatários: não serão cedidos dados a terceiros, salvo obrigação legal ou para a gestão do serviço. Direitos: aceder, retificar e suprimir os dados, assim como outros direitos explicados na <a href='/pt/legal/politica-privacidad/' style='text-decoration: underline; color: inherit;'>política de privacidade</a>. Também pode apresentar uma reclamação à Autoridade correspondente."
 
 # --- FOOTER ---
 footer_text = "Advocacia Preventiva. Rigor e proximidade por Fer."

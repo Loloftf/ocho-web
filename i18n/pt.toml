@@ -46,7 +46,7 @@ form_email = "Email"
 form_phone = "Telefone"
 form_message = "Que aspecto do seu futuro deseja proteger hoje?"
 form_cta = "Solicitar análisis preventivo"
-form_privacy = "Li e aceito a Política de Privacidade."
+form_privacy = "Li e aceito a política de privacidade."
 
 # --- FOOTER ---
 footer_text = "Advocacia Preventiva. Rigor e proximidade por Fer."

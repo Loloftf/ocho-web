@@ -15,12 +15,15 @@ Este sitio web utiliza cookies y/o tecnologías similares que almacenan y recupe
 ### 3. DETALLE DE LAS COOKIES UTILIZADAS
 A continuación, se detallan las cookies que se instalan en tu dispositivo:
 
-Proveedor	Cookie	Finalidad	Tipo	Duración
-Propia	cookie-consent	Recordar tus preferencias de privacidad.	Necesaria	12 meses
-Stripe	__stripe_mid	Prevención de fraude y seguridad en transacciones.	Necesaria	1 año
-Google Analytics	_ga, _gid	Análisis estadístico de visitas y navegación.	Analítica	2 años
-YouTube	VISITOR_INFO1_LIVE	Medición de reproducciones y marketing.	Marketing	6 meses
-[Nota para el programador: Esta tabla debe ser actualizada según los scripts reales que se carguen por ejemplo Facebook Pixel, Hotjar; banner de cookies limpio y no intrusivo tipo botón]
+| Servicio | Finalidad | Tipo |/ Caducidad
+| --- | --- | --- | --- | ---
+| Formspree | Funcionamiento de formularios de contacto. | Técnica | / Sesión
+| Airtable / Notion | Visualización de bases de datos y documentos. | Preferencias | / Persistente
+| Google Analyt. | Medición de tráfico y lectura de contenido. | Analítica | / 2 años
+| YouTube | Visualización de vídeos jurídicos. | Multimedia | / 6 meses
+| GitHub | Seguridad y entrega de contenido web. | Necesaria | / 90 días
+</p>
+<p style="font-size: 12px;">El uso de estas herramientas implica transferencia de datos a EE.UU. bajo el marco de privacidad transatlántico (Data Privacy Framework).</p>
 
 ### 4. CONFIGURACIÓN, BLOQUEO Y ELIMINACIÓN
 Puedes gestionar tus preferencias en cualquier momento:

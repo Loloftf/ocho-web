@@ -7,10 +7,9 @@ draft: false
 ### 1. RESPONSABLE DEL TRATAMIENTO
 * Identidad: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Dirección: Calle, Vizcaya, España
-* Correo electrónico: fer@ochoAP.com
-* Teléfono:646.288.175
-* Página web: www.ochoAP.com
+* Dirección: Avenida Salsidu 91, 48991 Getxo-Vizcaya, España
+* Correo electrónico: Fer@ocholegal.es
+* Página web: www.ocholegal.es
 
 ### 2. FINALIDAD DEL TRATAMIENTO DE LOS DATOS
 Los datos personales que facilites serán tratados para las siguientes finalidades:
@@ -29,7 +28,7 @@ La base legal para el tratamiento de tus datos es:
 
 ### 4. CATEGORÍA DE DATOS 
 Debido a la naturaleza de la especialidad, se podrán tratar:
-* Datos identificativos: Nombre, DNI, dirección, correo electrónico
+* Datos identificativos: Nombre, DNI, dirección, teléfono, correo electrónico
 * Datos de categorías especiales: Datos relativos a menores de edad, situación familiar, salud o datos patrimoniales necesarios para la defensa de tus intereses. El usuario garantiza que tiene la capacidad o el consentimiento necesario para facilitar datos de terceros (ej. hijos. pareja o coherederos).
 
 El usuario garantiza que tiene plena capacidad y que los datos facilitados son  verdaderos, exactos, completos y actualizados. A estos efectos, el usuario confirma que responde de la veracidad de los datos comunicados y que mantendrá convenientemente actualizada dicha información de modo que responda a su situación real, haciéndose responsable de los datos falsos e inexactos que pudiera proporcionar, así como de los daños y perjuicios, directos o indirectos, que pudieran derivarse.
@@ -50,20 +49,18 @@ Para la correcta prestación de los servicios jurídicos y la gestión de la web
 Tus datos podrán ser comunicados a:
 * Organismos Judiciales, Notarías, Registros y Administraciones Públicas.
 * Proveedores: Para la gestión del despacho es necesario contratar a terceros que actúan como proveedores y se utilizan herramientas que pueden suponer transferencias internacionales de datos.
-* Infraestructura: Hostinger International Ltd. (Alojamiento web en la UE).
-* Gestión y Automatización: Google LLC, Notion, Airtable, Zapier y Make. Al ser proveedores de EE.UU., la transferencia de datos se realiza bajo Cláusulas Contractuales Tipo aprobadas por la Comisión Europea.
-* Comunicación y Firma: Google Ireland Ltd, WhatsApp Ireland Ltd y Adobe (Firma electrónica).
+* Infraestructura: Github Inc (alojamiento web en Estados Unidos) actúa como proveedor de  infraestructura (hosting), procesando datos técnicos de conexión (como  la dirección IP) necesarios para la visualización del sitio. 
+* Gestión y Automatización: Google LLC,  Google Cloud EMEA Limited   (Google Workspace), Notion, Airtable, Zapier, Make y Formspree. Al ser proveedores de EE.UU., la transferencia de datos se realiza bajo Cláusulas Contractuales Tipo aprobadas por la Comisión Europea.
+* Comunicación y Firma: Google Ireland Ltd, WhatsApp Ireland Ltd y Adobe.
 * Pagos: Bizum (España), Stripe y PayPal (Irlanda/EE.UU.).
 
 ### 7. PLAZO DE CONSERVACIÓN
 Los datos personales se conservarán mientras se mantenga la relación profesional y, una vez finalizada, durante el plazo de prescripción de las responsabilidades profesionales y obligaciones tributarias. Los datos de la newsletter se conservarán hasta que el usuario solicite su baja.
 
 ### 8. DERECHOS DEL USUARIO
-Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad enviando un correo electrónico a fer@ochoAP.com indicando tu nombre y apellidos, la solicitud, el domicilio y los datos acreditativos. Asimismo, tienes derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD).
-Información práctica sobre el ejercicio de sus derechos:
+Puedes ejercer tus derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad enviando un correo electrónico a Fer@ocholegal.es indicando tu nombre y apellidos, la solicitud, el domicilio y los datos acreditativos. Asimismo, tienes derecho a presentar una reclamación ante la Agencia Española de Protección de Datos (AEPD). Información práctica sobre el ejercicio de sus derechos:
 * Carácter gratuito: El ejercicio de estos derechos es totalmente gratuito.
-* Forma de ejercicio: Puedes hacerlo enviando un correo electrónico a fer@ochoAP.com o mediante correo postal a la dirección del despacho; en ambos casos, en el asunto indica como referencia “ejercicio de derechos según LOPD”
+* Forma de ejercicio: Puedes hacerlo enviando un correo electrónico a Fer@ocholegal.es o mediante correo postal a la dirección del despacho; en ambos casos, en el asunto indica como referencia “ejercicio de derechos según LOPD”.
 * Identificación: Para proteger tu privacidad, es necesario que acredites tu identidad.
 * Representación: Los derechos pueden ejercerse de forma personal o por medio de un representante legal o voluntario debidamente acreditado.
 * Plazo de respuesta: Tendrás una respuesta en el plazo máximo de un mes desde la recepción de tu solicitud (ampliable a dos meses en casos de especial complejidad).
-

@@ -47,10 +47,10 @@ form_phone = "Teléfono"
 form_message = "¿Qué aspecto de tu futuro quieres dejar protegido hoy?"
 form_cta = "Solicitar análisis preventivo"
 form_privacy = "He leído y acepto la política de privacidad."
-form_privacy_basic = "Información básica sobre protección de datos: Responsable: Fernanda Rogério Iglesias. Finalidad: gestionar tu solicitud y contacto. Legitimación: Consentimiento del interesado. Destinatarios: no se cederán datos a terceros, salvo obligación legal o para la gestión del servicio. Derechos: acceder, rectificar y suprimir los datos, así como otros derechos como se explica en la <a href='/es/legal/politica-privacidad/' style='text-decoration: underline; color: inherit;'>política de privacidad</a>. También se puede instar reclamación ante la Autoridad correspondiente."
+form_privacy_basic = "Información básica sobre protección de datos: Responsable: Fernanda Rogério Iglesias. Finalidad: gestionar tu solicitud y contacto. Legitimación: Consentimiento del interesado. Destinatarios: no se cederán datos a terceros, salvo obligación legal o para la gestión del servicio. Derechos: acceder, rectificar y suprimir los datos, así como otros derechos como se explica en la <a href='/es/politica-privacidad/' style='text-decoration: underline; color: inherit;'>política de privacidad</a>. También se puede instar reclamación ante la Autoridad correspondiente."
 
 # --- FOOTER ---
-footer_text = "Abogacía Preventiva. Rigor y cercanía por Fer."
+footer_text = "Abogacía Preventiva."
 
 # --- WHATSAPP FLOAT ---
 whatsapp_text = "Hablar con Fer ahora"

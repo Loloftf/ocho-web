@@ -9,10 +9,9 @@ En cumplimiento con el deber de información recogido en artículo 10 de la Ley 
 
 * Titular: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Domicilio Profesional: Calle, Vizcaya, España
-* Correo electrónico: fer@ochoAP.com
-* Teléfono:646.288.175
-* Página web: www.ochoAP.com 
+* Domicilio Profesional: Avenida Salsidu 91, 48991 Getxo-Vizcaya, España
+* Correo electrónico: Fer@ocholegal.es
+* Página web: www.ocholegal.es 
 
 ### 2. DATOS PROFESIONALES
 En virtud de la transparencia exigida para los servicios profesionales, se informa que el titular de este sitio web es abogada en ejercicio:

@@ -6,10 +6,9 @@ draft: false
 ### 1. RESPONSÁVEL PELO TRATAMENTO
 * Identidade: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Endereço: Calle, Vizcaya, Espanha
-* Correio eletrônico: fer@ochoAP.com
-* Telefone: 646.288.175
-* Página web: www.ochoAP.com
+* Endereço: Avenida Salsidu 91, 48991 Getxo-Vizcaya, Espanha
+* Correio eletrônico: Fer@ocholegal.es
+* Página web: www.ocholegal.es
 
 ### 2. FINALIDADE DO TRATAMENTO DOS DADOS
 Os dados pessoais que você fornecer serão tratados para as seguintes finalidades:
@@ -28,7 +27,7 @@ A base legal para o tratamento dos seus dados é:
 
 ### 4. CATEGORIA DE DADOS 
 Devido à natureza da especialidade, poderão ser tratados:
-* Dados identificativos: Nome, DNI (documento de identidade), endereço, correio eletrônico.
+* Dados identificativos: Nome, DNI (documento de identidade), endereço, telefone, correio eletrônico.
 * Dados de categorias especiais: Dados relativos a menores de idade, situação familiar, saúde ou dados patrimoniais necessários para a defesa dos seus interesses. O usuário garante que possui a capacidade ou o consentimento necessário para fornecer dados de terceiros (ex: filhos, parceiro ou herdeiros).
 
 O usuário garante que possui plena capacidade e que os dados fornecidos são verdadeiros, exatos, completos e atualizados. Para este efeito, o usuário confirma que responde pela veracidade dos dados comunicados e que manterá convenientemente atualizada a referida informação de modo a que responda à sua situação real, tornando-se responsável pelos dados falsos e inexatos que possa fornecer, bem como pelos danos e prejuízos, diretos ou indiretos, que possam daí advir.
@@ -49,19 +48,19 @@ Para a correta prestação dos serviços jurídicos e a gestão do site, a infor
 Os seus dados poderão ser comunicados a:
 * Organismos Judiciais, Notários, Registros e Administrações Públicas.
 * Fornecedores: Para a gestão do escritório é necessário contratar terceiros que atuam como fornecedores e são utilizadas ferramentas que podem implicar transferências internacionais de dados.
-* Infraestrutura: Hostinger International Ltd. (Hospedagem web na UE).
-* Gestão e Automatização: Google LLC, Notion, Airtable, Zapier e Make. Sendo fornecedores dos EUA, a transferência de dados é realizada sob Cláusulas Contratuais Tipo aprovadas pela Comissão Europeia.
-* Comunicação e Assinatura: Google Ireland Ltd, WhatsApp Ireland Ltd e Adobe (Assinatura eletrônica).
+* Infraestrutura: Github Inc (alojamento web nos Estados Unidos) atua como fornecedor de  infraestrutura (hosting), processando dados técnicos de conexão (como a direção IP) necessários para a visualização do site. 
+* Gestão e Automatização: Google LLC,  Google Cloud EMEA Limited   (Google Workspace), Notion, Airtable, Zapier, Make e Formspree. Sendo fornecedores dos EUA, a transferência de dados é realizada sob Cláusulas Contratuais Tipo aprovadas pela Comissão Europeia.
+* Comunicação e Assinatura: Google Ireland Ltd, WhatsApp Ireland Ltd e Adobe.
 * Pagamentos: Bizum (Espanha), Stripe e PayPal (Irlanda/EUA).
 
 ### 7. PRAZO DE CONSERVAÇÃO
 Os dados pessoais serão conservados enquanto se mantiver a relação profissional e, uma vez finalizada, durante o prazo de prescrição das responsabilidades profissionais e obrigações tributárias. Os dados da newsletter serão conservados até que o usuário solicite o seu cancelamento.
 
 ### 8. DIREITOS DO USUÁRIO
-Você pode exercer seus direitos de acesso, retificação, eliminação, oposição, limitação do tratamento e portabilidade enviando um correio eletrônico para fer@ochoAP.com indicando seu nome e sobrenomes, a solicitação, o domicílio e os dados comprovativos. Da mesma forma, tem o direito de apresentar uma reclamação perante a Agência Espanhola de Proteção de Dados (AEPD).
-Informação prática sobre o exercício dos seus direitos:
+Você pode exercer seus direitos de acesso, retificação, eliminação, oposição, limitação do tratamento e portabilidade enviando um e-mail para Fer@ocholegal.es indicando seu nome e sobrenomes, a solicitação, o domicílio e os dados comprovativos. Da mesma forma, tem o direito de apresentar uma reclamação perante a Agência Espanhola de Proteção de Dados (AEPD). Informação prática sobre o exercício dos seus direitos:
+
 * Caráter gratuito: O exercício destes direitos é totalmente gratuito.
-* Forma de exercício: Pode fazê-lo enviando um correio eletrônico para fer@ochoAP.com ou mediante correio postal para o endereço do escritório; em ambos os casos, no assunto indique como referência “exercício de direitos segundo LOPD”.
+* Forma de exercício: Pode fazê-lo enviando um e-mail para Fer@ocholegal.es ou mediante correio postal para o endereço do escritório; em ambos os casos, no assunto indique como referência “exercício de direitos segundo LOPD”.
 * Identificação: Para proteger a sua privacidade, é necessário que comprove a sua identidade.
 * Representação: Os direitos podem ser exercidos de forma pessoal ou por meio de um representante legal ou voluntário devidamente credenciado.
 * Prazo de resposta: Terá uma resposta no prazo máximo de um mês a partir da receção da sua solicitação (prorrogável por dois meses em casos de especial complexidade).

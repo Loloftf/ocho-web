@@ -17,13 +17,16 @@ A fatura será enviada por e-mail.
 Qualquer serviço adicional à reunião, como por exemplo a revisão de documentação, será devidamente orçamentado.
 
 ### 3. HONORÁRIOS E FORMA DE PAGAMENTO
-Preços
-Os preços dos serviços são os indicados na web e incluem o IVA (21%), salvo indicação em contrário.
-Formas de pagamento
-Os pagamentos serão realizados através de plataformas de pagamento de terceiros (Stripe, Paypal, etc.), que serão os únicos recetores dos dados relacionados com o cartão de crédito do cliente; portanto, perante qualquer eventualidade, a reclamação deverá ser realizada diretamente à plataforma de pagamento. 
-Também são aceites pagamentos por transferência bancária e bizum. O cliente será responsável por qualquer erro ou prejuízo que ocorra ao realizar o pagamento.
-Gastos excluídos
-O pagamento da consulta online ou serviço não inclui honorários de solicitadores/procuradores, taxas judiciais, gastos de cartório ou deslocações, os quais serão objeto de uma folha de encomenda independente caso o assunto exija atuações adicionais.
+Preços     
+    Os preços dos serviços são os indicados na web e incluem o IVA (21%), salvo que se indique lo contrario.
+</p>
+Formas de pagamento <p>
+    Os pagamentos serão realizados através de plataformas de pagamento de terceiros (Stripe, Paypal,etc...) quienes serán los únicos receptores de los datos relacionados con la tarjeta de crédito del cliente por lo que, ante cualquier eventualidad, el reclamo deberá ser realizado directamente a la plataforma de pago.  
+    Também se aceitam pagamentos mediante transferência bancária e bizum. O cliente será responsável de qualquer erro ou prejuízo que se produza ao realizar o pagamento.
+</p>
+Gastos excluídos <p>
+    O pagamento da consulta online ou serviço não inclui honorários de procuradores, taxas judiciais, gastos de notaría ou deslocamentos, os quais serão objeto de uma folha de encargo independente se o assunto requer actuaciones adicionales.
+</p>
 
 ### 4. DESISTÊNCIA, ALTERAÇÃO E CANCELAMENTO 
 Direito de desistência:

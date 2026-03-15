@@ -18,7 +18,7 @@ Es curioso, pero construimos nuestra vida pensando que esas variables no nos toc
 
 **Les tocará a otros**.
 
-El alzheimer, la demencia o un accidente no se eligen.
+Un accidente, una enfermedad neurodegenerativa, o cualquier otra circunstancia que nos impida tomar decisiones, no se eligen.
 
 Pero suceden.
 

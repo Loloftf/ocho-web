@@ -18,7 +18,7 @@ Para quem o vive... e para quem acompanha.
 
 **Vão tocar a outros**.
 
-O Alzheimer, a demência ou um acidente não se escolhem.
+Um acidente, uma doença neurodegenerativa, ou qualquer outra circunstância que nos impeça de tomar decisões, não se escolhem.
 
 Mas acontecem.
 

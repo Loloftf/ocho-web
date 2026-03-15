@@ -8,10 +8,9 @@ draft: false
 Em cumprimento do dever de informação previsto no artigo 10.º da Lei 34/2002, de 11 de julho, de Serviços da Sociedade da Informação e do Comércio Eletrónico (LSSI-CE), disponibilizam-se os seguintes dados:
 * Titular: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Domicílio Profissional: Calle, Vizcaya, Espanha
-* Correio eletrónico: fer@ochoAP.com
-* Telefone: 646.288.175
-* Página web: www.ochoAP.com
+* Domicílio Profissional: Avenida Salsidu 91, 48991 Getxo-Vizcaya, Espanha
+* Correio eletrónico: Fer@ocholegal.es
+* Página web: www.ocholegal.es
 
 ### 2. DADOS PROFISSIONAIS
 Em cumprimento da transparência exigida para os serviços profissionais, informa-se que a titular deste site é advogada em exercício:

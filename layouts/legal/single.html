@@ -1,9 +1,11 @@
 {{ define "main" }}
 
 <main class="legal">
-  <h1>{{ .Title }}</h1>
-  <div class="content">
-    {{ .Content }}
+  <div class="container" style="padding: 100px 24px;">
+    <h1 class="section-title center" style="margin-bottom: 40px;">{{ .Title }}</h1>
+    <div class="content">
+      {{ .Content }}
+    </div>
   </div>
 </main>
 {{ end }}

@@ -16,13 +16,16 @@ La factura será enviada por correo electrónico.
 Cualquier servicio adicional a la reunión, como por ejemplo la revisión de documentación, será debidamente presupuestado.
 
 ### 3. HONORARIOS Y FORMA DE PAGO
-Precios
-Los precios de los servicios son los indicados en la web e incluyen el IVA (21%), salvo que se indique lo contrario.
-Formas de pago
- Los pagos se realizarán a través de plataformas de pago de terceros (Stripe, Paypal,etc...) quienes serán los únicos receptores de los datos relacionados con la tarjeta de crédito del cliente por lo que, ante cualquier eventualidad, el reclamo deberá ser realizado directamente a la plataforma de pago.  
-También se aceptan pagos mediante transferencia bancaria y bizum. El cliente será responsable de cualquier error o perjuicio que se produzca al realizar el pago.
-Gastos excluidos
- El pago de la consulta online o servicio no incluye honorarios de procuradores, tasas judiciales, gastos de notaría o desplazamientos, los cuales serán objeto de una hoja de encargo independiente si el asunto requiere actuaciones adicionales.
+Precios     
+    Los precios de los servicios son los indicados en la web e incluyen el IVA (21%), salvo que se indique lo contrario.
+</p>
+Formas de pago <p>
+    Los pagos se realizarán a través de plataformas de pago de terceros (Stripe, Paypal,etc...) quienes serán los únicos receptores de los datos relacionados con la tarjeta de crédito del cliente por lo que, ante cualquier eventualidad, el reclamo deberá ser realizado directamente a la plataforma de pago.  
+    También se aceptan pagos mediante transferencia bancaria y bizum. El cliente será responsable de cualquier error o perjuicio que se produzca al realizar el pago.
+</p>
+Gastos excluidos <p>
+    El pago de la consulta online o servicio no incluye honorarios de procuradores, tasas judiciales, gastos de notaría o desplazamientos, los cuales serán objeto de una hoja de encargo independiente si el asunto requiere actuaciones adicionales.
+</p>
 
 ### 4. DESISTIMIENTO, CAMBIO Y CANCELACIÓN 
 Derecho de desistimiento:

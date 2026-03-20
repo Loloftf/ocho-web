@@ -33,7 +33,7 @@ caso amanhã não o possas fazer.
 
 **Porque a tua vida pode mudar de um momento para o outro, sem aviso**.
 
-Se um dia tiveres Alzheimer:  
+Se algum dia você tiver uma enfermidade que o(a) faça ser dependente:  
 * Queres ficar em casa ou ir para uma residência?
 * Gostarias de continuar a ouvir música clássica todas as tardes?
 * Quem é a pessoa mais responsável para gerir o teu património?

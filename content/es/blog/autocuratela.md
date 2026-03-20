@@ -33,7 +33,7 @@ por si mañana no puedes hacerlo.
 
 **Porque tu vida puede cambiar de un momento a otro, sin avisar**.
 
-Si algún día tienes alzheimer:  
+Si algún día tuvieras una enfermedad que te hiciera ser dependiente:  
 * ¿Quieres quedarte en casa o ir a una residencia?
 * ¿Te gustaría seguir escuchando música clásica todas las tardes?
 * ¿Quién es la persona más responsable para gestionar tu patrimonio?

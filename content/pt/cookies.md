@@ -17,11 +17,11 @@ A seguir, detalham-se os cookies que são instalados no seu dispositivo:
 
 | Serviço | Finalidade | Tipo |/ Duração
 | --- | --- | --- | --- | ---
-| Formspree | Funcionamento de formularios de contacto. | Técnica | / Sesión
-| Airtable / Notion | Visualización de bases de datos y documentos. | Preferencias | / Persistente
-| Google Analyt. | Medición de tráfico y lectura de contenido. | Analítica | / 2 años
-| YouTube | Visualización de vídeos jurídicos. | Multimedia | / 6 meses
-| GitHub | Seguridad y entrega de contenido web. | Necesaria | / 90 días
+| Formspree | Funcionamento de formulários de contacto. | Técnica | Sessão |
+| Airtable / Notion | Visualização de bases de dados e documentos. | Preferências | Persistente |
+| Google Analyt. | Medição de tráfego e leitura de conteúdo. | Analítica | 2 anos |
+| YouTube | Visualização de vídeos jurídicos. | Multimedia | 6 meses |
+| GitHub | Segurança e entrega de conteúdo web. | Necessária | 90 dias |
 </p>
 <p style="font-size: 12px;">O uso destas ferramentas implica transferência de dados para os EUA sob o quadro de privacidade transatlântico (Data Privacy Framework).</p>
 
@@ -30,9 +30,9 @@ Você pode gerir suas preferências a qualquer momento:
 * A. Através da nossa web: Você pode retirar seu consentimento ou modificar a configuração dos cookies através do Painel de Configuração disponível de forma permanente no rodapé deste site.
 * B. Através do seu navegador: Você pode permitir, bloquear ou eliminar os cookies instalados no seu equipamento mediante a configuração das opções do navegador que utilizar. 
 Dado que cada navegador possui configurações diferentes que podem mudar, o usuário deve consultar os manuais de uso do mesmo. No entanto, a seguir apresenta-se um guia orientativo:
-* Firefox: Ir a Menu – Preferências – Privacidade – Mostrar cookies – Configurar segundo o que desejar. Para mais informações pode visitar a seção de ajuda do navegador https://www.mozilla.org/pt-BR/privacy/websites/#cookies
-* Chrome: Ir a Menu – Configuração (em Mac: Preferências) – Ajustes Avançados – Privacidade – Aqui escolha se deseja configurar os cookies ou eliminar os cookies existentes. Para mais informações pode visitar a ajuda do Chrome https://support.google.com/chrome/answer/95647?hl=es
-* Internet Explorer: Ir a Herramientas – Opciones de Internet – Privacidad – Privacidad – Configuración – Opciones avanzadas. Configure lo deseado. Para mais informações pode visitar a seção de ayuda propia del navegador https://support.microsoft.com/pt-br/help/17442/windows-internet-explorer-delete-manage-cookies
-* Safari: Safari – Preferências – Privacidade – Realice la configuración deseada. Para mais informações pode visitar a ajuda da Apple https://support.apple.com/pt-br/guide/safari/sfri11471/mac
+* Firefox: Ir para Menu – Preferências – Privacidade – Mostrar cookies – Configurar conforme desejar. Para mais informações, pode visitar a secção de ajuda do navegador: https://www.mozilla.org/pt-BR/privacy/websites/#cookies
+* Chrome: Ir para Menu – Definições (em Mac: Preferências) – Definições Avançadas – Privacidade – Aqui escolha se deseja configurar os cookies ou eliminar os cookies existentes. Para mais informações, pode visitar a ajuda do Chrome: https://support.google.com/chrome/answer/95647?hl=pt
+* Internet Explorer: Ir para Ferramentas – Opções de Internet – Privacidade – Privacidade – Configuração – Opções avançadas. Configure conforme desejado. Para mais informações, pode visitar a secção de ajuda do próprio navegador: https://support.microsoft.com/pt-br/help/17442/windows-internet-explorer-delete-manage-cookies
+* Safari: Safari – Preferências – Privacidade – Realize a configuração desejada. Para mais informações, pode visitar a ajuda da Apple: https://support.apple.com/pt-br/guide/safari/sfri11471/mac
 
 O bloqueio de todos os cookies pode limitar a funcionalidade de algumas partes desta web, especialmente as relacionadas com o processo de pagamento e a reprodução de vídeos.

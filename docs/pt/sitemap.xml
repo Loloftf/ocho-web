@@ -15,19 +15,6 @@
                 href="https://loloftf.github.io/ocho-web/pt/blog/autocuratela/"
                 />
   </url><url>
-    <loc>https://loloftf.github.io/ocho-web/pt/</loc>
-    <lastmod>2026-01-18T10:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://loloftf.github.io/ocho-web/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://loloftf.github.io/ocho-web/pt/"
-                />
-  </url><url>
     <loc>https://loloftf.github.io/ocho-web/pt/blog/</loc>
     <lastmod>2026-01-18T10:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,6 +107,19 @@
                 rel="alternate"
                 hreflang="pt"
                 href="https://loloftf.github.io/ocho-web/pt/blog/rem/"
+                />
+  </url><url>
+    <loc>https://loloftf.github.io/ocho-web/pt/</loc>
+    <lastmod>2026-01-18T10:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://loloftf.github.io/ocho-web/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://loloftf.github.io/ocho-web/pt/"
                 />
   </url><url>
     <loc>https://loloftf.github.io/ocho-web/pt/blog/separacion-bienes/</loc>

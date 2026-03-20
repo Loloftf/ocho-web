@@ -1,4 +1,5 @@
 # --- CABECERA ---
+site_title = "Ocho Legal"
 header_services = "Servicios"
 header_blog = "Te Interesa"
 header_about = "Quién soy"

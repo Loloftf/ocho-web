@@ -18,14 +18,14 @@ Qualquer serviço adicional à reunião, como por exemplo a revisão de document
 
 ### 3. HONORÁRIOS E FORMA DE PAGAMENTO
 Preços     
-    Os preços dos serviços são os indicados na web e incluem o IVA (21%), salvo que se indique lo contrario.
+    Os preços dos serviços são os indicados na web e incluem o IVA (21%), salvo indicação em contrário.
 </p>
 Formas de pagamento <p>
-    Os pagamentos serão realizados através de plataformas de pagamento de terceiros (Stripe, Paypal,etc...) quienes serán los únicos receptores de los datos relacionados con la tarjeta de crédito del cliente por lo que, ante cualquier eventualidad, el reclamo deberá ser realizado directamente a la plataforma de pago.  
-    Também se aceitam pagamentos mediante transferência bancária e bizum. O cliente será responsável de qualquer erro ou prejuízo que se produza ao realizar o pagamento.
+    Os pagamentos serão realizados através de plataformas de pagamento de terceiros (Stripe, Paypal, etc.), as quais serão os únicos recetores dos dados relacionados com o cartão de crédito do cliente, pelo que, perante qualquer eventualidade, a reclamação deverá ser realizada diretamente à plataforma de pagamento.  
+    Também se aceitam pagamentos através de transferência bancária e MB Way ou Bizum. O cliente será responsável por qualquer erro ou prejuízo que ocorra ao realizar o pagamento.
 </p>
 Gastos excluídos <p>
-    O pagamento da consulta online ou serviço não inclui honorários de procuradores, taxas judiciais, gastos de notaría ou deslocamentos, os quais serão objeto de uma folha de encargo independente se o assunto requer actuaciones adicionales.
+    O pagamento da consulta online ou serviço não inclui honorários de solicitadores, taxas judiciais, gastos de cartório ou deslocações, os quais serão objeto de uma folha de honorários independente se o assunto exigir diligências adicionais.
 </p>
 
 ### 4. DESISTÊNCIA, ALTERAÇÃO E CANCELAMENTO 

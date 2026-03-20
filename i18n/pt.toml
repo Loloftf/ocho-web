@@ -1,6 +1,7 @@
 # --- CABECERA ---
+site_title = "Ocho Legal"
 header_services = "Serviços"
-header_blog = "Te Interesa"
+header_blog = "Te Interessa"
 header_about = "Quem sou"
 header_cta = "Fale comigo"
 
@@ -21,31 +22,31 @@ service_mediation_text = "Amparar em situações de vulnerabilidade.<br><br>• 
 
 # --- BLOG ---
 blog_title = "Chaves para sua tranquilidade"
-blog_subtitle = "Informações claras e sem jargões para tomar decisiones hoje que te protejam sempre."
-blog_read_more = "Leia más →"
+blog_subtitle = "Informações claras e sem jargões para tomar decisões hoje que te protejam sempre."
+blog_read_more = "Leia mais →"
 back_to_blog = "Voltar ao blog"
 
 # --- SOBRE FER ---
 about_title = "Oi, meu nome é Fer."
 about_p1 = "Após anos de experiência trabalhando diariamente no tribunal, não só encontrei minha especialidade, como também compreendi que muitos conflitos familiares não nascem do problema em si, mas da falta de informação, planejamento e serenidade."
 about_p2 = "Não acredito em um exercício profissional conflituoso, apressado e desumanizado. Por isso, minhas relações — tanto pessoais quanto profissionais — baseiam-se em uma escuta honesta, na qual o respeito e a autorresponsabilidade são fundamentais."
-about_p3 = "OCHO é o resultado dos meus aciertos e dos meus erros."
+about_p3 = "OCHO é o resultado dos meus acertos e dos meus erros."
 about_p4 = "Meu foco está nas pessoas, no que nos une e em viver com tranquilidade."
 about_p5 = "Mantra: Que o importante seja realmente o importante."
 about_signature = "Fer."
 
 # --- CONTATO ---
 contact_title = "Blindemos seu futuro."
-contact_text = "Conte-me sua situação. Analisarei os riscos potenciais e proporei uma estrategia preventiva con total clareza."
+contact_text = "Conte-me sua situação. Analisarei os riscos potenciais e proporei uma estratégia preventiva com total clareza."
 form_label_name = "Nome"
 form_label_email = "Email"
 form_label_phone = "Telefone"
 form_label_message = "Mensagem"
-form_name = "Seu nombre"
+form_name = "Seu nome"
 form_email = "Email"
 form_phone = "Telefone"
 form_message = "Que aspecto do seu futuro deseja proteger hoje?"
-form_cta = "Solicitar análisis preventivo"
+form_cta = "Solicitar análise preventiva"
 form_privacy = "Li e aceito a política de privacidade."
 form_privacy_basic = "Informação básica sobre proteção de dados: Responsável: Fernanda Rogério Iglesias. Finalidade: gerir o seu pedido e contacto. Legitimidade: Consentimento do interessado. Destinatários: não serão cedidos dados a terceiros, salvo obrigação legal ou para a gestão do serviço. Direitos: aceder, retificar e suprimir os dados, assim como outros direitos explicados na <a href='/pt/politica-privacidad/' style='text-decoration: underline; color: inherit;'>política de privacidade</a>. Também pode apresentar uma reclamação à Autoridade correspondente."
 

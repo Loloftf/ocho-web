@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Ocho Legal"
 description: "Últimos artículos"
 lang: "es"
 ---

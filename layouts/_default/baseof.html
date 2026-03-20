@@ -1,15 +1,16 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
 
 <head>
     <meta charset="UTF-8">
-    <title>{{ .Title }} | OCHO</title>
+    <title>{{ if eq .Kind "home" }}{{ i18n "site_title" }}{{ else }}{{ .Title }}{{ if not (in .Title "OCHO") }} | OCHO{{ end }}{{ end }}</title>
     <meta name="description" content="{{ .Params.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://api.fontshare.com/v2/css?f[]=didot@400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ "styles.css" | relURL }}?v=3.0">
+    <script>console.log("HUGO_DEBUG: Title is " + document.title);</script>
 </head>
 
 <body>

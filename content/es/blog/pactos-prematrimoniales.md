@@ -1,7 +1,7 @@
 +++
 title = "En el amor, como en los negocios, no hay garantías."
 description = "Lo que debes saber sobre los pactos prematrimoniales."
-date = 2026-01-18T10:00:00
+date = 2026-01-10T10:00:00
 image = "/images/divorcio.jpg"
 tags = ["Tranquilidad"]
 +++

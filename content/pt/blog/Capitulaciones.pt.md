@@ -1,7 +1,7 @@
 +++
 title = "Convenções matrimoniais: o contrato mais importante da tua vida"
 description = "As convenções matrimoniais são um contrato que permite aos casais decidir como organizar o seu património e evitar problemas futuros se a relação terminar."
-date = 2026-01-18T10:00:00
+date = 2026-01-19T10:00:00
 image = "/images/pareja.jpg"
 tags = ["Família"]
 +++

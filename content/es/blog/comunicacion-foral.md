@@ -1,7 +1,7 @@
 +++
 title = "Comunicación foral: lo que firmaste sin firmarlo."
 description = "Conoce qué es la comunicación foral."
-date = 2026-01-18T10:00:00
+date = 2026-01-10T10:00:00
 image = "/images/firmar.jpg"
 tags = ["Tranquilidad"]
 +++

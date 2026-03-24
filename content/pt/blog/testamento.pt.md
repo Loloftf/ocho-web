@@ -1,7 +1,7 @@
 +++
 title = "Vamos morrer"
 description = "O que deves ter em conta ao fazer um testamento"
-date = 2026-01-18T10:00:00
+date = 2026-01-10T10:00:00
 image = "/images/morir.jpg"
 tags = ["Herança"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Capitulaciones matrimoniales: el contrato más importante de tu vida"
 description = "Las capitulaciones matrimoniales son un contrato que permite a las parejas decidir cómo organizar su patrimonio y evitar problemas futuros si la relación termina."
-date = 2026-01-18T10:00:00
+date = 2026-01-19T10:00:00
 image = "/images/pareja.jpg"
 tags = ["Família"]
 +++

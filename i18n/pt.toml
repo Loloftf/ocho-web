@@ -4,15 +4,16 @@ header_services = "Serviços"
 header_blog = "Te Interessa"
 header_about = "Quem sou"
 header_cta = "Fale comigo"
+header_subtext = "Advocacia Preventiva"
 
 # --- HERO ---
 hero_title = "<span class='hero-line-1'>Resolver conflitos é bom.</span><br>Preveni-los é melhor."
-hero_text = "A OCHO acompanha você no planejamento jurídico do que realmente importa:<br>a sua vida e a dos seus."
+hero_text = "OCHO te acompanha no planejamento jurídico do que realmente importa:<br>a sua vida e a dos seus."
 hero_cta = "Conte-me"
 
 # --- SERVIÇOS ---
 services_title = "O que posso fazer por você"
-services_subtitle = "Aja agora para que o futuro não o surpreenda."
+services_subtitle = "Aja agora para que o futuro não te surpreenda."
 service_heritage_title = "Planejamento pessoal e patrimonial"
 service_heritage_text = "Ordenar hoje para evitar conflitos amanhã.<br><br>• Pactos antenupciais<br>• Pactos pré-nupciais<br>• Pactos de convivência<br>• Pactos em previsão de ruptura<br>• Protocolo familiar<br>• Exequatur (legalização de divórcio)"
 service_family_title = "Organização familiar após a ruptura"

@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://api.fontshare.com/v2/css?f[]=didot@400&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ "styles.css" | relURL }}?v=3.0">
+    <link rel="stylesheet" href="{{ "styles.css" | relURL }}?v=4.0">
     <script>console.log("HUGO_DEBUG: Title is " + document.title);</script>
 </head>
 
@@ -19,6 +19,7 @@
             <a href="{{ "/" | relLangURL }}" class="brand-identity">
                 {{ partial "logo.html" . }}
                 <span class="header-text">OCHO</span>
+                <span class="header-subtext">{{ i18n "header_subtext" }}</span>
             </a>
             <nav class="main-nav">
                 <ul>

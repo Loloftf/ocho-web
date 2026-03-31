@@ -4,6 +4,7 @@ header_services = "Servicios"
 header_blog = "Te Interesa"
 header_about = "Quién soy"
 header_cta = "Hablemos"
+header_subtext = "Abogacía Preventiva"
 
 # --- HERO ---
 hero_title = "<span class='hero-line-1'>Resolver conflictos está bien.</span><br>Prevenirlos es mejor."

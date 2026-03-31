@@ -1,4 +1,4 @@
-baseURL = "https://loloftf.github.io/ocho-web/"
+baseURL = "https://ocholegal.es/"
 publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true

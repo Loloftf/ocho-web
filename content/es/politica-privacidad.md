@@ -7,7 +7,7 @@ draft: false
 ### 1. RESPONSABLE DEL TRATAMIENTO
 * Identidad: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Dirección: Avenida Salsidu 91, 48991 Getxo-Vizcaya, España
+* Dirección: Puerto Orduña 18, 48993 Getxo-Vizcaya, España
 * Correo electrónico: Fer@ocholegal.es
 * Página web: www.ocholegal.es
 

@@ -45,12 +45,12 @@ Algo que tu davas por garantido. Mas que, talvez, o outro nem sequer sabia.
 
 Ao assinar um **pacto pré-nupcial** reduzes essa variável.
 
-Porque te dá previsibilidade.
+Porque vos dá previsibilidade.
 
-Permite-te estabelecer **as regras do “vosso jogo”**.  
-Não as de um sistema genérico que não valoriza as tuas particularidades.
+Permite-vos estabelecer **as regras do “vosso jogo”**.  
+Não as de um sistema genérico que não valoriza as vossas particularidades.
 
-Dá-te a possibilidade de responder a perguntas vitais:
+Permite-vos responder a perguntas vitais:
 
 * Que **regime económico** queremos?
 * Quem assumirá o **cuidado diário dos nossos filhos**?
@@ -66,10 +66,10 @@ A partir do amor.
 Não da raiva.
 
 
-A tua relação é o teu maior investimento…  
+**Vossa relação é o vosso maior investimento…**  
 de tempo, de dinheiro, de energia.
 
 Saber para onde vão e como o vão fazer  
-determina o teu bem-estar.
+determina o vosso bem-estar.
 
 **A tranquilidade não se improvisa, desenha-se.**

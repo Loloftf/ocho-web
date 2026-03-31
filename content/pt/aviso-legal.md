@@ -8,7 +8,7 @@ draft: false
 Em cumprimento do dever de informação previsto no artigo 10.º da Lei 34/2002, de 11 de julho, de Serviços da Sociedade da Informação e do Comércio Eletrónico (LSSI-CE), disponibilizam-se os seguintes dados:
 * Titular: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Domicílio Profissional: Avenida Salsidu 91, 48991 Getxo-Vizcaya, Espanha
+* Domicílio Profissional: Puerto Orduña 18, 48993 Getxo-Vizcaya, Espanha
 * Correio eletrónico: Fer@ocholegal.es
 * Página web: www.ocholegal.es
 

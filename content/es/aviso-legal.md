@@ -9,7 +9,7 @@ En cumplimiento con el deber de información recogido en artículo 10 de la Ley 
 
 * Titular: Fernanda Rogério Iglesias
 * NIF: 79.368.440-V
-* Domicilio Profesional: Avenida Salsidu 91, 48991 Getxo-Vizcaya, España
+* Domicilio Profesional: Puerto Orduña 18, 48993 Getxo-Vizcaya, España
 * Correo electrónico: Fer@ocholegal.es
 * Página web: www.ocholegal.es 
 

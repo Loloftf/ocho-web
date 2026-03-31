@@ -43,14 +43,14 @@ Gran parte de los conflictos surgen por la decepción.
 Y la decepción nada más es que una expectativa no cumplida.
 Algo que tú dabas por sentado. Pero que, quizás, el otro ni siquiera lo sabía.
 
-Al firmar un **pacto prematrimonial** reduces esa variable.
+Al firmar un **pacto prematrimonial** reducís esa variable.
 
-Porque te da previsibilidad.
+Porque os da previsibilidad.
 
-Te permite establecer **las reglas de “tu juego”**.
-No las de un sistema genérico que no valora tus matices.
+Os permite establecer **las reglas de “vuestro juego”**.
+No las de un sistema genérico que no valora vuestros matices.
 
-Te da la posibilidad de responder a preguntas vitales:
+Os da la posibilidad de responder a preguntas vitales:
 
 * ¿Qué **régimen económico** queremos?
 * ¿Quién asumirá el **cuidado diario de nuestros hijos**?
@@ -66,11 +66,11 @@ Desde el amor.
 No desde la rabia.
 
 
-Tu relación de pareja es tu mayor inversión.... 
+**Vuestra relación de pareja es vuestra mayor inversión....** 
 de **tiempo**, de **dinero**, de **energía**.
 
 Saber hacia dónde vais y cómo lo llevaréis a cabo,
-determina tu bienestar.
+determina vuestro bienestar.
 
 **La tranquilidad no se improvisa, se diseña.**
 

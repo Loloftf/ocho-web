@@ -56,11 +56,11 @@ E, além disso, permitem-te decidir sobre o que é importante no momento mais ad
 
 ## Situações reais que importam
 
-- O que acontece se tens uma empresa?
-- E se compraste uma casa antes da relação?
-- O que acontece se têm salários diferentes?
-- E se há filhos de uma relação anterior?
-- O que acontece se têm nacionalidades diferentes?
+- O que acontece se tens uma **empresa**?
+- E se compraste uma casa antes da **relação**?
+- O que acontece se têm **salários** diferentes?
+- E se há **filhos** de uma relação anterior?
+- O que acontece se têm **nacionalidades** diferentes?
 
 Nada de estranho. Nada de excecional. 
 Mas suficiente para que, sem planeamento, a confusão seja garantida.
@@ -70,25 +70,25 @@ Mas suficiente para que, sem planeamento, a confusão seja garantida.
 
 Então, ótimo. 
 
-As convenções terão cumprido a sua função de forma silenciosa: não causar problemas. 
+As convenções terão cumprido a sua função de forma silenciosa: **não causar problemas**. 
 Como o airbag do teu carro.
 
 
 ## O que acontece se não escolheres?
 
-Então deixas de decidir e é a lei que escolhe por ti. 
+Então deixas de decidir e **é a lei que escolhe por ti**. 
 
 O que significa que o regime de bens aplicado pode não ser o mais adequado à vossa situação. 
 
 Como ir de fato de banho em pleno inverno. 
 
-Porque a norma oferece uma solução padrão para realidades que nunca o são.
+Porque a norma oferece uma **solução padrão para realidades que nunca o são**.
 
 
 ## A decisão mais inteligente
 
 As convenções não falam de rutura. 
-Falam de como queremos cuidar-nos, mesmo em cenários difíceis. 
+Falam de **como queremos cuidar-nos, mesmo em cenários difíceis**. 
 
 E isso é uma verdadeira demonstração de amor.
 
@@ -98,4 +98,4 @@ Porque a partir de agora já não podes dizer:
 
 > “Se eu soubesse isto antes...”
 
-Não deixes para amanhã o plano mais importante da tua vida.
+**Não deixes para amanhã o plano mais importante da tua vida.**

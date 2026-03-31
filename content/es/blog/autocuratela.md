@@ -25,7 +25,7 @@ Pero suceden.
 Ignorando el riesgo no lo eliminas,
 lo único que consigues es que te pille sin un plan.
 
-La autocuratela es ese plan.
+**La autocuratela es ese plan.**
 * Un paso a paso hecho sin generalidades.
 * Siguiendo tus propias reglas.
 * Implica decidir hoy lo que quieres que ocurra,

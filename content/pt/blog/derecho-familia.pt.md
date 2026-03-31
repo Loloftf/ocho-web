@@ -72,7 +72,7 @@ Isto não é pessimismo. É **maturidade e responsabilidade**.
 
 Mas Fer, não é um pouco exagerado pensar nisto agora?
 
-E a minha resposta é a mesma: Não.
+E a minha resposta é sempre a mesma: **Não**.
 
 **A prevenção parece desnecessária até deixar de o ser.**
 
@@ -84,7 +84,7 @@ Utilizar o direito da família preventivo é como levar uma vacina.
 
 Não significa que vás apanhar gripe, mas reduz os efeitos se a apanhares.
 
-Agora a decisão é tua.
+**Agora a decisão é tua.**
 
 Decide se queres desenhar as tuas próprias regras hoje, a partir da tranquilidade do teu sofá, ou se preferes que um terceiro as decida numa sala de audiências dentro de alguns anos.
 

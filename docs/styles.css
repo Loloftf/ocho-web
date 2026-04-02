@@ -280,7 +280,9 @@ h3 {
 }
 
 .blog-cta-wrapper {
-  text-align: center;
+  display: grid;
+  place-items: center;
+  width: 100%;
   margin-top: 40px;
 }
 

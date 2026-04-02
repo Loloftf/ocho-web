@@ -9,7 +9,7 @@ header_subtext = "Abogacía Preventiva"
 # --- HERO ---
 hero_title = "<span class='hero-line-1'>Resolver conflictos está bien.</span><br>Prevenirlos es mejor."
 hero_text = "OCHO te acompaña en la planificación jurídica de lo que de verdad importa:<br>tu vida y la de los tuyos."
-hero_cta = "Cuéntame"
+hero_cta = "HABLEMOS"
 
 # --- SERVICIOS ---
 services_title = "Lo que puedo hacer por ti"

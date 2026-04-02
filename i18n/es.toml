@@ -25,6 +25,7 @@ service_mediation_text = "Amparar en situaciones de vulnerabilidad.<br><br>• N
 blog_title = "Claves para tu tranquilidad"
 blog_subtitle = "Información clara y sin tecnicismos para tomar decisiones hoy que te protejan siempre."
 blog_read_more = "Leer más →"
+blog_btn = "Saber Más"
 back_to_blog = "Volver al blog"
 
 # --- SOBRE FER ---
